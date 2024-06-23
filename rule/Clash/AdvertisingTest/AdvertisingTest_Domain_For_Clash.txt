@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-21 02:10:30
+# UPDATED: 2024-06-23 02:09:09
 # DOMAIN: 12852
 # DOMAIN-KEYWORD: 280
-# DOMAIN-SUFFIX: 154949
+# DOMAIN-SUFFIX: 154956
 # IP-CIDR: 469
 # IP-CIDR6: 1
-# TOTAL: 168551
+# TOTAL: 168558
 213.8.137.51
 10.10.34.34
 10.10.34.35
@@ -13088,6 +13088,7 @@ ios-pclog.i4.cn
 +.1156219164.rsc.cdn77.org
 +.1175980934.rsc.cdn77.org
 +.1187531871.rsc.cdn77.org
++.1199403312.rsc.cdn77.org
 +.11a5ade414a6a4b9969685db9e96b193.com
 +.11c7a3.xyz
 +.11g1ip22h.de
@@ -13134,6 +13135,7 @@ ios-pclog.i4.cn
 +.1312907885.rsc.cdn77.org
 +.13199960a1.com
 +.1324827002.rsc.cdn77.org
++.1325492758.rsc.cdn77.org
 +.1350c3.xyz
 +.1365498388.rsc.cdn77.org
 +.1378a.xyz
@@ -13214,6 +13216,7 @@ ios-pclog.i4.cn
 +.192.luyouwang.com
 +.19273817.com
 +.1933201447.rsc.cdn77.org
++.1946365241.rsc.cdn77.org
 +.194b7af8c3.com
 +.19515bia.de
 +.19528681.com
@@ -13858,6 +13861,7 @@ ios-pclog.i4.cn
 +.4f369824ed.com
 +.4f4e1936f7.com
 +.4fb0cadcc3.com
++.4fb60fd0.xyz
 +.4fef80eb73.com
 +.4ffecd1ee4.com
 +.4g0b1inr.de
@@ -14297,6 +14301,7 @@ ios-pclog.i4.cn
 +.884de19f2b.com
 +.8861198.com
 +.8861202.com
++.8878tp.com
 +.887vn.com
 +.888aa111bb.com
 +.888aa222bb.com
@@ -15379,6 +15384,7 @@ ios-pclog.i4.cn
 +.ad.doganburda.com
 +.ad.donanimhaber.com
 +.ad.doorigo.co.kr
++.ad.douga-kan.com
 +.ad.doyouad.com
 +.ad.duga.jp
 +.ad.edugram.com
@@ -15829,6 +15835,7 @@ ios-pclog.i4.cn
 +.adfrika.com
 +.adfrontiers.com
 +.adfstat.yandex.ru
++.adfulplatform.com
 +.adfun.ru
 +.adfurikun.jp
 +.adfusion.com
@@ -17422,6 +17429,7 @@ ios-pclog.i4.cn
 +.afiliapub.click
 +.afilio.com.br
 +.afishamedia.net
++.afkearupl.com
 +.afkwa.com
 +.afl-static-cdn.newbiz-prod.stroeerws.de
 +.afloatroyalty.com
@@ -17653,6 +17661,7 @@ ios-pclog.i4.cn
 +.aifoghou.com
 +.aigaithojo.com
 +.aigenstud.com
++.aigheebsu.net
 +.aigneloa.com
 +.aigretenew.top
 +.aigsgwowkb.com
@@ -20606,6 +20615,7 @@ ios-pclog.i4.cn
 +.banners.prikol.ru
 +.banners.tapclap.com
 +.banners.tempobet.com
++.banners.wsnonline.dk
 +.banners5html2.com
 +.bannersmall.com
 +.bannersmania.com
@@ -21537,6 +21547,7 @@ ios-pclog.i4.cn
 +.bfeflwuhyhxgw.com
 +.bfgacxuooced.com
 +.bfgtfxd.com
++.bfhueh.top
 +.bfjk360.com
 +.bfjsliv.top
 +.bfjszxzfvf.com
@@ -22260,6 +22271,7 @@ ios-pclog.i4.cn
 +.bngprl.com
 +.bngprm.com
 +.bngpst.com
++.bngrol.com
 +.bngtrak.com
 +.bngwlt.com
 +.bnhnkbknlfnniug.xyz
@@ -23611,6 +23623,7 @@ ios-pclog.i4.cn
 +.cafqeelk.com
 +.caftaistes.com
 +.cafvyfdqedjc.xyz
++.cagakzcwyr.com
 +.cageinattentiveconfederate.com
 +.cagerssoohong.com
 +.cagesscan.com
@@ -24062,7 +24075,10 @@ ios-pclog.i4.cn
 +.cca63f7d30.com
 +.ccaa0e51d8.com
 +.ccaahdancza.com
++.ccccc66kkkkk.com
 +.ccccc67kkkkk.com
++.ccccc78kkkkk.com
++.ccccc88kkkkk.com
 +.cccpmo.com
 +.ccdneniusruhebl.com
 +.ccdrofvofrfkqah.com
@@ -24317,6 +24333,7 @@ ios-pclog.i4.cn
 +.ceeqgwt.com
 +.ceezepegleze.xyz
 +.cegadazwdsp.com
++.cegloockoar.com
 +.cegrithy.net
 +.cehuiy.com
 +.ceilingbruiseslegend.com
@@ -26646,6 +26663,7 @@ ios-pclog.i4.cn
 +.counter.scribblelive.com
 +.counter.sibnet.ru
 +.counter.sina.com.cn
++.counter.smotrim.ru
 +.counter.snackly.co
 +.counter.tengrinews.kz
 +.counter.theconversation.com
@@ -27255,6 +27273,7 @@ ios-pclog.i4.cn
 +.ctr-media.info
 +.ctr-opc.nmg.de
 +.ctr.nmg.de
++.ctr.po-kaki-to.com
 +.ctrhub.com
 +.ctrlaltdel99.com
 +.ctrmanager.com
@@ -27300,6 +27319,7 @@ ios-pclog.i4.cn
 +.cuevastrck.com
 +.cufcw.com
 +.cuferxmtvifnu.com
++.cufultahaur.com
 +.cugeeksy.net
 +.cuhlsl.info
 +.cuioxbqi.com
@@ -27500,6 +27520,7 @@ ios-pclog.i4.cn
 +.cyclistforgotten.com
 +.cycndlhot.xyz
 +.cycsfe.com
++.cycvyo.xyz
 +.cydippeespy.com
 +.cyesesprerich.com
 +.cygnus.com
@@ -30512,6 +30533,7 @@ ios-pclog.i4.cn
 +.dmtracker.com
 +.dmtry.com
 +.dmtw0i4zln92b.cloudfront.net
++.dmuqumodgwm.com
 +.dmvbdfblevxvx.com
 +.dmvckj.icu
 +.dmvporebntt.com
@@ -30552,6 +30574,7 @@ ios-pclog.i4.cn
 +.dniyppubkuut7.cloudfront.net
 +.dnjsiye.com
 +.dnks065sb0ww6.cloudfront.net
++.dnlgrxhfcsjhcto.com
 +.dnn1300.top
 +.dnn4px252i5wx.cloudfront.net
 +.dnn506yrbagrg.cloudfront.net
@@ -30828,6 +30851,7 @@ ios-pclog.i4.cn
 +.douglaug.net
 +.douhooke.net
 +.doujs01.xyz
++.doujs02.xyz
 +.doukoula.com
 +.doumuleet.net
 +.douoblelimpup.com
@@ -30937,6 +30961,7 @@ ios-pclog.i4.cn
 +.dqwzhseasq.com
 +.dqxbqubsknfc.com
 +.dqxifbm.com
++.dqypqewirrf.com
 +.dqzehgha.xyz
 +.dqzsejvbr.com
 +.dqzuy.com
@@ -31357,6 +31382,7 @@ ios-pclog.i4.cn
 +.durableordinarilyadministrator.com
 +.durationmedia.net
 +.durationzodiacdetermined.com
++.durchsichtig.xyz
 +.durhamoryssus.com
 +.durike.com
 +.duriot.com
@@ -32448,6 +32474,7 @@ ios-pclog.i4.cn
 +.emigrantblunder.com
 +.emigrantfirearmcaliber.com
 +.emigrantmovements.com
++.emigreehurty.top
 +.emigrenanas.com
 +.emitlabelreproduction.com
 +.emitmagnitude.com
@@ -33329,6 +33356,7 @@ ios-pclog.i4.cn
 +.events.storifyme.com
 +.events.swishapps.ai
 +.events.textme-app.com
++.events.tryamped.com
 +.events.tubecup.org
 +.events.turbosquid.com
 +.events.tvtime.com
@@ -34799,6 +34827,7 @@ ios-pclog.i4.cn
 +.fixwap.net
 +.fizawhwpyda.com
 +.fizzysquirtbikes.com
++.fjbubsdhpcticbu.com
 +.fjdpdcdndc.com
 +.fjhfruuhmgnrt.com
 +.fjhrq.xyz
@@ -34952,6 +34981,7 @@ ios-pclog.i4.cn
 +.flirt4e.com
 +.flirt4free.com
 +.flirtatiousconsultyoung.com
++.flirtfusiontoys.toys
 +.flirthere1.com
 +.flirtingsms.com
 +.flitespashka.top
@@ -35006,6 +35036,7 @@ ios-pclog.i4.cn
 +.flrdra.com
 +.fluctuo.com
 +.fluemantappall.guru
++.fluencydepressing.com
 +.fluencyinhabited.com
 +.fluencymedia.com
 +.fluencythingy.com
@@ -35859,6 +35890,7 @@ ios-pclog.i4.cn
 +.fucoustittup.uno
 +.fucsarhyhlci.com
 +.fudginghoners.com
++.fudukrujoa.com
 +.fuegodevida.com
 +.fuel451.com
 +.fuelbuck.com
@@ -35949,6 +35981,7 @@ ios-pclog.i4.cn
 +.furtherencouragingvocational.com
 +.furtherestimatebereave.com
 +.furtivelybleedlyrics.com
++.furykms.com
 +.fusainswheeled.com
 +.fuse-cloud.com
 +.fuseamazementavow.com
@@ -36337,6 +36370,7 @@ ios-pclog.i4.cn
 +.garlandcheese.com
 +.garlandprotectedashtray.com
 +.garlandshark.com
++.garlicice.store
 +.garmentfootage.com
 +.garmentsdraught.com
 +.garnishpoints.com
@@ -36654,6 +36688,7 @@ ios-pclog.i4.cn
 +.get-click.ru
 +.get-gx.net
 +.get-here-click.xyz
++.get-kmspico.com
 +.get-partner.life
 +.get.cryptobrowser.site
 +.get.davincisgold.com
@@ -36687,8 +36722,10 @@ ios-pclog.i4.cn
 +.gethit.ru
 +.getinstant.website
 +.getintopc.digital
++.getintopc.today
 +.getiton.com
 +.getjad.io
++.getkmspico.com
 +.getlasso.co
 +.getmackeepersoftpro.xyz
 +.getmacos.org
@@ -37696,6 +37733,7 @@ ios-pclog.i4.cn
 +.gppsusbb.com
 +.gpqid.xyz
 +.gpr.hu
++.gprsiugqgwqt.com
 +.gpsecureads.com
 +.gptkjrseu.com
 +.gpylmwtjiy.com
@@ -38204,6 +38242,7 @@ ios-pclog.i4.cn
 +.guestsfingertipchristian.com
 +.guestssum.com
 +.guftaujug.com
++.gugletkvarner.top
 +.guhtoken.org
 +.guidonsfeeing.com
 +.guigebichir.website
@@ -38912,7 +38951,6 @@ ios-pclog.i4.cn
 +.healte.de
 +.health-metrics-api.setapp.com
 +.healthfailed.com
-+.healthgrades.com
 +.healthreports.co.il
 +.healthsmd.com
 +.healthtrader.com
@@ -39128,6 +39166,7 @@ ios-pclog.i4.cn
 +.hetsclaxqke.com
 +.hetsouds.net
 +.heucoucjrwno.com
++.heukmsactivator.com
 +.heukwasanasosett.info
 +.heusysianedu.com
 +.hevc.site
@@ -39711,6 +39750,7 @@ ios-pclog.i4.cn
 +.honeyreadinesscentral.com
 +.hongteng.xyz
 +.honitonchyazic.com
++.honknl.xyz
 +.honorablehalt.com
 +.honorbustlepersist.com
 +.honourcunninglowest.com
@@ -40278,6 +40318,7 @@ ios-pclog.i4.cn
 +.hweriou.top
 +.hwfmynim.com
 +.hwfoct.icu
++.hwgxmvhphcbqcis.com
 +.hwhacum.cn
 +.hwicliktt.com
 +.hwivedn.icu
@@ -40849,6 +40890,7 @@ ios-pclog.i4.cn
 +.ikyobwrswacki.xyz
 +.ilade.xyz
 +.ilaterdeallyig.info
++.ilaterdeallyighab.info
 +.ilathetchit.com
 +.ilawitrototlet.com
 +.ilbuqwjwzw.com
@@ -42100,6 +42142,7 @@ ios-pclog.i4.cn
 +.isbnrs.com
 +.isbnyzpunkx.com
 +.isboost.co.jp
++.isdarot.com
 +.iseatheadline.com
 +.isegeowrvnxorj.com
 +.iseoiknnqckto.xyz
@@ -42125,6 +42168,7 @@ ios-pclog.i4.cn
 +.islerobserpent.com
 +.ismlks.com
 +.ismscoldnesfspl.info
++.ismuwcm.icu
 +.isna.top
 +.isnd.top
 +.iso100.ru
@@ -42210,6 +42254,7 @@ ios-pclog.i4.cn
 +.itheatmoran.com
 +.ithergrouter.website
 +.ithoughtsustache.info
++.iththinleldedallov.info
 +.itienlo.top
 +.itikiab.com
 +.itim.vn
@@ -43723,6 +43768,7 @@ ios-pclog.i4.cn
 +.kaqhfijxlkbfa.xyz
 +.kar-sentry.karnameh.com
 +.karafutem.com
++.karanpc.com
 +.karayarillock.cam
 +.kargo.com
 +.karlhalved.com
@@ -43805,6 +43851,7 @@ ios-pclog.i4.cn
 +.kdmjvnk.com
 +.kdnutwrx.com
 +.kdokgcf.com
++.kdoshbd.top
 +.kdosimp.com
 +.kdpic.pchome.com.tw
 +.kdpnmlygyagyx.com
@@ -44311,8 +44358,15 @@ ios-pclog.i4.cn
 +.kmrilock.com
 +.kmrnkjer.xyz
 +.kms-full.com
++.kms-pc.com
++.kms-tool.com
++.kmsauto.info
++.kmsofficial.org
++.kmspi.co
++.kmspico-official.org
 +.kmspico.io
 +.kmspico.ws
++.kmspicoofficial.com
 +.kmwclt.xyz
 +.kmyaklgcik.com
 +.kmyunderthf.info
@@ -45410,6 +45464,7 @@ ios-pclog.i4.cn
 +.leedoash.com
 +.leefosto.com
 +.leegaroo.xyz
++.leenaitheez.com
 +.leeptoadeesh.net
 +.leesecobourg.com
 +.leesymvlvck.xyz
@@ -47345,6 +47400,7 @@ ios-pclog.i4.cn
 +.m1.we556.com
 +.m1170.top
 +.m1ll1c4n0.com
++.m1tm.motor1.com
 +.m2.ai
 +.m2.lelemh.com
 +.m28458.top
@@ -49236,6 +49292,7 @@ ios-pclog.i4.cn
 +.moaningbeautifulnobles.com
 +.moaningtread.com
 +.moanomoa.xyz
++.moapaglee.net
 +.moapevuwtv.com
 +.moapuwhe.com
 +.moastizi.xyz
@@ -50158,6 +50215,7 @@ ios-pclog.i4.cn
 +.mutinydisgraceeject.com
 +.mutinygrannyhenceforward.com
 +.mutjrvxlldyrbyg.xyz
++.mutmfwgdoxvbbuo.com
 +.mutomb.com
 +.mutsjeamenism.com
 +.mutteredadis.org
@@ -51667,6 +51725,7 @@ ios-pclog.i4.cn
 +.njfxmqvonppwq.com
 +.njhvalu.cn
 +.njih.net
++.njjavt.xyz
 +.njjebgkvrniwmr.com
 +.njkiho.info
 +.njlcmkzfex.com
@@ -52344,6 +52403,7 @@ ios-pclog.i4.cn
 +.nxdcyhmwxlqc.com
 +.nxditl.xyz
 +.nxexydg.com
++.nxhnaibu.com
 +.nxhwvt.xyz
 +.nxikijn.com
 +.nxiqvhhm.com
@@ -52397,6 +52457,7 @@ ios-pclog.i4.cn
 +.nzfhloo.com
 +.nzgldfeqvocgb.com
 +.nzhfk.com
++.nzhzzd.xyz
 +.nzimmoadxfa.com
 +.nzlebmxoebtff.com
 +.nzlrfdv.xyz
@@ -52796,6 +52857,7 @@ ios-pclog.i4.cn
 +.officeroey.top
 +.officetablntry.org
 +.officialbanisters.com
++.officialkmspico.com
 +.officiallyflabbyperch.com
 +.officialraising.com
 +.officials-kmspico.com
@@ -53832,6 +53894,7 @@ ios-pclog.i4.cn
 +.oukoushu.xyz
 +.ouldhukelpm.org
 +.ouleegneeje.com
++.oulragart.xyz
 +.oulrarta.net
 +.oulrukry.xyz
 +.oulsools.com
@@ -55174,6 +55237,7 @@ ios-pclog.i4.cn
 +.persuasivepenitentiary.com
 +.pertawee.net
 +.pertersacstyli.com
++.pertfinds.com
 +.pertholin.com
 +.pertlouv.com
 +.perttogahoot.com
@@ -55306,6 +55370,7 @@ ios-pclog.i4.cn
 +.phaitaghy.com
 +.phaixurd.com
 +.phalingy.net
++.phallicbedsore.com
 +.phamsacm.net
 +.phanmem111.com
 +.phanmem333.com
@@ -56650,6 +56715,7 @@ ios-pclog.i4.cn
 +.pplferio.com
 +.pplgwic.com
 +.pplnjoow.com
++.ppmzcafertd.com
 +.ppoi.org
 +.ppoommhizazn.com
 +.ppovysmcycmwvv.com
@@ -57502,6 +57568,7 @@ ios-pclog.i4.cn
 +.ptflrj.xyz
 +.ptfxh.com
 +.pthdepsftn.com
++.pthrecjtu.com
 +.pthzqqvrjyou.com
 +.pticmootoat.com
 +.ptidfrvqxpucy.com
@@ -57908,6 +57975,7 @@ ios-pclog.i4.cn
 +.putrr18.com
 +.putrr7.com
 +.putwandering.com
++.puwkcqp.icu
 +.puwpush.com
 +.puy2.cn
 +.puyjjq.com
@@ -57966,7 +58034,6 @@ ios-pclog.i4.cn
 +.pwxlbsie.icu
 +.pwxmwmoyuobgku.com
 +.pwxtock.com
-+.px.adfulplatform.com
 +.px.dmp.zaloapp.com
 +.px.gfycat.com
 +.px.marchex.io
@@ -58817,6 +58884,7 @@ ios-pclog.i4.cn
 +.qzalsk.xyz
 +.qzcjehp.com
 +.qzdmvwewzxzzze.com
++.qzehwg.xyz
 +.qzesmjv.com
 +.qziuwzn.cn
 +.qzkjkiexmsyv.com
@@ -58933,6 +59001,7 @@ ios-pclog.i4.cn
 +.ragged-weakness.pro
 +.raggledordures.com
 +.ragita.uno
++.raglanyakking.com
 +.raglassofrum.cc
 +.ragsbxhchr.xyz
 +.ragwviw.com
@@ -58963,6 +59032,7 @@ ios-pclog.i4.cn
 +.raisinmanagelivestock.com
 +.raivoufe.xyz
 +.rajabets.xyz
++.rajmobbism.com
 +.rakamu.com
 +.rake.11st.co.kr
 +.rake.tmap.co.kr
@@ -59173,6 +59243,7 @@ ios-pclog.i4.cn
 +.rcaqaogrcjukkg.com
 +.rcblfd.xyz
 +.rcblkkhfvrxyn.com
++.rcdjkdesdn.com
 +.rcerrohatfad.com
 +.rcesigojtwh.com
 +.rcf3occ8.de
@@ -60535,6 +60606,7 @@ ios-pclog.i4.cn
 +.rmnsdh.xyz
 +.rmrtgsheui.com
 +.rmtag.com
++.rmtckjzct.com
 +.rmuuspy.com
 +.rmvvawqobqvaq.top
 +.rmvvawqobqvmv.top
@@ -60849,6 +60921,7 @@ ios-pclog.i4.cn
 +.rqfedjzveel.com
 +.rqhere.com
 +.rqhere2.com
++.rqmakkmq.com
 +.rqmob.com
 +.rqnefp.xyz
 +.rqnomljdot.xyz
@@ -60856,6 +60929,7 @@ ios-pclog.i4.cn
 +.rqrvfp.xyz
 +.rqtrk.eu
 +.rqwel.com
++.rqwyrdwlaygwxkw.com
 +.rqxtbr.xyz
 +.rqytqq.com
 +.rreauksofthecom.xyz
@@ -61285,6 +61359,7 @@ ios-pclog.i4.cn
 +.s-iwantyou.com
 +.s-lab.it
 +.s-manager.com
++.s-odx.oleads.com
 +.s-onetag.com
 +.s-p-o-n-s-o-r.com
 +.s.360.cn
@@ -61636,6 +61711,7 @@ ios-pclog.i4.cn
 +.saunerema.net
 +.saupouni.xyz
 +.sauptoacoa.com
++.sauptowhy.com
 +.saurajembe.top
 +.sauriaparpen.com
 +.sausagegirlieheartburn.com
@@ -61913,6 +61989,7 @@ ios-pclog.i4.cn
 +.scrollisolation.com
 +.scrollye.com
 +.scrtbhmtmplg.xyz
++.scru.cn
 +.scrubheiress.com
 +.scruboutdoorsoffensive.com
 +.scruis.com
@@ -61951,6 +62028,7 @@ ios-pclog.i4.cn
 +.sda.seksohub.com
 +.sda.tamdiem247.com
 +.sdarot-il.org
++.sdarot-tv.org
 +.sdarot.cc
 +.sdarotil.top
 +.sdasasyydd.com
@@ -61994,6 +62072,7 @@ ios-pclog.i4.cn
 +.sdo2435.com
 +.sdo8357.com
 +.sdofp9c.cddrhx.cn
++.sdoshbb.top
 +.sdqoi2d.com
 +.sdqwf.ga
 +.sdrive.skoda-auto.com
@@ -62559,6 +62638,7 @@ ios-pclog.i4.cn
 +.sgfsdvc.com
 +.sgftrrs.com
 +.sgg.southcn.com
++.sggu.cn
 +.sgidskib.top
 +.sgihava.com
 +.sglahyea.xyz
@@ -62732,6 +62812,7 @@ ios-pclog.i4.cn
 +.shenzo.xyz
 +.shepeekr.net
 +.shepherdalmightyretaliate.com
++.shepsubsitha.com
 +.sherryfaithfulhiring.com
 +.sheschemetraitor.com
 +.shesseet.com
@@ -66767,6 +66848,7 @@ ios-pclog.i4.cn
 +.szdgl.cn
 +.szdpk.cn
 +.szdxw.cn
++.szdzn.cn
 +.szfmr.cn
 +.szftg.cn
 +.szgaikk.com
@@ -67575,6 +67657,7 @@ ios-pclog.i4.cn
 +.telemetry.navigatorapp.net
 +.telemetry.phenixrts.com
 +.telemetry.reembed.com
++.telemetry.smartframe.io
 +.telemetry.soundcloud.com
 +.telemetry.swe.quicinc.com
 +.telemetry.tableausoftware.com
@@ -68000,6 +68083,7 @@ ios-pclog.i4.cn
 +.thewhizmarketing.com
 +.thewhizproducts.com
 +.thewiercopse.website
++.thewindowsactivator.com
 +.thewise.com
 +.thewowfeed.com
 +.thewscozier.uno
@@ -68091,6 +68175,7 @@ ios-pclog.i4.cn
 +.thongtechnicality.com
 +.thongtindonhang.com
 +.thongwarily.com
++.thoohizoogli.xyz
 +.thoorest.com
 +.thoorgins.com
 +.thoorteeboo.xyz
@@ -69491,6 +69576,7 @@ ios-pclog.i4.cn
 +.tracker.shanon-services.com
 +.tracker.shopclues.com
 +.tracker.smart-bdash.com
++.tracker.smartframe.io
 +.tracker.smartseminar.jp
 +.tracker.softcube.com
 +.tracker.sqreemtech.com
@@ -70219,6 +70305,7 @@ ios-pclog.i4.cn
 +.tuckedtucked.com
 +.tuckerheiau.com
 +.tucktunnelsnowman.com
++.tucsulfjseyan.com
 +.tuddicijloxb.com
 +.tudxhzj.cn
 +.tuesdayfetidlit.com
@@ -70347,6 +70434,7 @@ ios-pclog.i4.cn
 +.tvdbspojay.com
 +.tveta.naver.net
 +.tvetamovie.pstatic.net
++.tvfeel.cc
 +.tvgxhvredn.xyz
 +.tvkaimh.com
 +.tvlaavcxdxlqan.com
@@ -70933,6 +71021,7 @@ ios-pclog.i4.cn
 +.ultraclassmate.com
 +.ultrapartners.com
 +.ultrapay.net
++.ultrasonica.info
 +.ulukaris.com
 +.ululubugles.website
 +.ulvpdxabzuoy.com
@@ -71380,6 +71469,7 @@ ios-pclog.i4.cn
 +.uphillgrandmaanger.com
 +.uphilo.com
 +.uphorter.com
++.uphoveduke.com
 +.uphoveeh.xyz
 +.upinu.xyz
 +.upkoffingr.com
@@ -73730,6 +73820,7 @@ ios-pclog.i4.cn
 +.vpop2.com
 +.vpotyflfox.com
 +.vppst.iltrovatore.it
++.vppzjv.xyz
 +.vpqko.fun
 +.vpqrydt.xyz
 +.vprtrfc.com
@@ -73793,6 +73884,7 @@ ios-pclog.i4.cn
 +.vsdcdn.com
 +.vserv.mobi
 +.vsesumki.com
++.vsftsyriv.com
 +.vsgfjfsmcewnuhx.com
 +.vshzouj.com
 +.vskfeduxg.xyz
@@ -74298,6 +74390,7 @@ ios-pclog.i4.cn
 +.wazveqv.xyz
 +.wazzeyzloayz.top
 +.wazzeyzlozyj.top
++.wbaj.cn
 +.wbaogaqvrukprx.com
 +.wbdds.com
 +.wbdqwpu.com
@@ -75115,6 +75208,7 @@ ios-pclog.i4.cn
 +.windofaeolus.com
 +.windowdemiselowlife.com
 +.windowmentaria.com
++.windows-pro.net
 +.windowsaura.com
 +.windowsdaggerminiaturization.com
 +.windowsgushfurnished.com
@@ -75674,6 +75768,7 @@ ios-pclog.i4.cn
 +.wrotus.com
 +.wrpsouf.cn
 +.wrqtcoxjw.com
++.wrrlidnlerx.com
 +.wrtjojn.xyz
 +.wrtm.walla.co.il
 +.wruaqpkuwa.com
@@ -76039,6 +76134,7 @@ ios-pclog.i4.cn
 +.xatesfrgkifde.com
 +.xawab.com
 +.xawlop.com
++.xaxciisqwvk.com
 +.xaxoro.com
 +.xaxrtiahkft.com
 +.xayiqcwbmmhwf.com
@@ -76786,6 +76882,7 @@ ios-pclog.i4.cn
 +.yarthtumulus.com
 +.yasg114.com
 +.yashi.com
++.yasir252.com
 +.yasma.top
 +.yatab.net
 +.yatemy.cn
@@ -77056,6 +77153,7 @@ ios-pclog.i4.cn
 +.ykgkxcount.com
 +.ykkhihg.cn
 +.ykmvnhue.com
++.ykopnlrbb.com
 +.ykqalsm.com
 +.ykraeij.com
 +.ykrwopdxkw.com
@@ -77460,6 +77558,7 @@ ios-pclog.i4.cn
 +.yzfrapd.xyz
 +.yzgbsg.xyz
 +.yzgid.cn
++.yzihdppw.xyz
 +.yziwoidi.icu
 +.yzjihang.cn
 +.yzlfobyscos.com
@@ -80511,7 +80610,6 @@ ios-pclog.i4.cn
 +.ads.scott-sports.com
 +.ads.scottusa.com
 +.ads.seniorfriendfinder.com
-+.ads.sexgratuit.tv
 +.ads.sexier.com
 +.ads.sfusion.com
 +.ads.shiftdelete.net
@@ -85046,6 +85144,7 @@ ios-pclog.i4.cn
 +.cwolwc.xyz
 +.cwwvbqwexbitnb.xyz
 +.cxad.cn
++.cxense.com
 +.cxgwsu.xyz
 +.cxovwczosr.com
 +.cxt.ms
@@ -88167,6 +88266,7 @@ ios-pclog.i4.cn
 +.globalwebads.com
 +.globetrackr.com
 +.globulespooner.space
++.glookup.info
 +.gloriahell.com
 +.gloriespiuri.com
 +.gloriousbeef.com
@@ -88280,6 +88380,7 @@ ios-pclog.i4.cn
 +.googledrive-en.com
 +.googleflights-cn.net
 +.googleminiapps.cn
++.googleoptimize.com
 +.googlers-cn.com
 +.googlesandbox-cn.com
 +.googlesyndication-cn.com
@@ -88769,6 +88870,7 @@ ios-pclog.i4.cn
 +.healthbeautyncs.com
 +.healthcare-distribution.com
 +.healthfood.syoutikubai.com
++.healthgrades.com
 +.healthykids-food.com
 +.healthynews03.ru
 +.heap.com
@@ -92405,10 +92507,12 @@ ios-pclog.i4.cn
 +.metrics.oregonlive.com
 +.metrics.philly.com
 +.metrics.rottentomatoes.com
++.metrics.sephora.com
 +.metrics.theatlantic.com
 +.metrics.thefrisky.com
 +.metrics.thenation.com
 +.metrics.theweathernetwork.com
++.metrics.toyota.com
 +.metrics.yousendit.com
 +.metrilo.com
 +.metriweb.be
@@ -99096,6 +99200,7 @@ ios-pclog.i4.cn
 +.taptapnetworks.com
 +.tapulsads.ru
 +.targad.de
++.target.microsoft.com
 +.targetbay.com
 +.targeting.api.drift.com
 +.targeting.nzme.arcpublishing.com
@@ -107258,6 +107363,7 @@ ios-pclog.i4.cn
 +.enlightenment.secureshoppingbasket.com
 +.enohb.com
 +.enormitteen.pro
++.ens.nzz.ch
 +.enseptedsome.info
 +.entry.baidu.cn
 +.entry.baidu.com
@@ -108674,6 +108780,7 @@ ios-pclog.i4.cn
 +.imgcache.sythe.org
 +.imgcdn.de92.com
 +.imgp.cymzc.com
++.imgstat.baidu.com
 +.imgtrack.domainmarket.com
 +.imgxxx.shunxincar.cn
 +.imiek.com
@@ -108699,6 +108806,7 @@ ios-pclog.i4.cn
 +.impservice.youdao.com
 +.impservice2.youdao.com
 +.impservicetest.dictapp.youdao.com
++.imrworldwide.com
 +.imtmp.net
 +.imx.comedycentral.com
 +.imykgs.com
@@ -110700,6 +110808,7 @@ ios-pclog.i4.cn
 +.ommodatesjoin.info
 +.omnikool.discovery.com
 +.omoaxaus.net
++.omtrdc.net
 +.omztf.cn
 +.on.maxspeedcdn.com
 +.on68xf.cn
@@ -111256,6 +111365,7 @@ ios-pclog.i4.cn
 +.pvsite.zol.com.cn
 +.pvstat.china.cn
 +.pvstat.html5.qq.com
++.pvtag.yahoo.co.jp
 +.pvtest.zol.com.cn
 +.pvx.autohome.com.cn
 +.pwa.telephoneannuaire.fr
@@ -112103,6 +112213,7 @@ ios-pclog.i4.cn
 +.smblock.s3.amazonaws.com
 +.smckii.cn
 +.smdhek58726.cn
++.smetrics.delta.com
 +.smf82.cn
 +.smitionsory.co
 +.smpdth.cn
@@ -112304,6 +112415,7 @@ ios-pclog.i4.cn
 +.staticxx.facebook.com
 +.statis.mobile.youku.com
 +.statis.push.netease.com
++.statistic.qzone.qq.com
 +.statistic.takungpao.com
 +.statistics.raiffeisen.ch
 +.statisticsv2.yinyuetai.com
@@ -112520,6 +112632,7 @@ ios-pclog.i4.cn
 +.taat00889.com
 +.tabwl.com
 +.tactics.bainv.net
++.tag.aticdn.net
 +.tag.sonymusic.com
 +.taglocker.target.com
 +.tags.cdn.circlesix.co
@@ -114145,6 +114258,7 @@ ios-pclog.i4.cn
 +.yizhijin.cn
 +.yjiaj.com
 +.yjoiunf.com
++.yjtag.yahoo.co.jp
 +.yjunzi.com
 +.yk0712.com
 +.ykatr.youku.com
@@ -114813,6 +114927,7 @@ ios-pclog.i4.cn
 +.13.y2sysv81v.com
 +.1319.4puuqeh41.com
 +.1329.5clo0xmbf.com
++.139520.aioc.qbgxl.com
 +.13owamwp6c.cn
 +.14.y2sysv81v.com
 +.1459.cosmicnewspulse.com
@@ -114907,7 +115022,6 @@ ios-pclog.i4.cn
 +.1vyt1eguj27.ommasign.com
 +.1wdacn.xyz
 +.1x001.com
-+.1xl.adopstar.uk
 +.2.arpun.com
 +.2.uyybde07w.com
 +.2.wemakebestnews.com
@@ -115597,6 +115711,7 @@ ios-pclog.i4.cn
 +.9104.5clo0xmbf.com
 +.9113.4puuqeh41.com
 +.9121.4puuqeh41.com
++.912648.aioc.qbgxl.com
 +.9127.4puuqeh41.com
 +.9141.l5eamr17d.com
 +.9155.833enmhob.com
@@ -115872,7 +115987,6 @@ ios-pclog.i4.cn
 +.abelinentrk.com
 +.abemms.atp-autoteile.de
 +.abenshishabi.com
-+.abissnet.net
 +.abjjsc.cn
 +.ableepismtrk.com
 +.ablen01.tk
@@ -117107,7 +117221,6 @@ ios-pclog.i4.cn
 +.ap.ksrong.com
 +.ap.saluteeyeseed.com
 +.apcilnf.cn
-+.apcltlwndq.com
 +.apd-pcdnwxlogin.teg.tencent-cloud.net
 +.ape.mfj.se
 +.ape.pytch.co.uk
@@ -117128,7 +117241,6 @@ ios-pclog.i4.cn
 +.api-h.outgrow.co
 +.api-live.outgrow.co
 +.api-log.immomo.com
-+.api-ms.cobainaja.id
 +.api-n.outgrow.co
 +.api-pravoved.s3.amazonaws.com
 +.api-proxy.bee7.com
@@ -117288,7 +117400,6 @@ ios-pclog.i4.cn
 +.apidns.kwd.inkuai.com
 +.apidq.punchh.com
 +.apilog.app.acfun.cn
-+.apinhdqwxbirre.com
 +.apis.com.br
 +.apis.ihg.com.edgekey.net
 +.apis.mediamelon.com
@@ -117387,9 +117498,9 @@ ios-pclog.i4.cn
 +.apps.nielsen.com
 +.appservestar.com
 +.appsfire.net
-+.appx0426.oss-ap-southeast-1.aliyuncs.com
 +.apqcjj.celford.com
 +.aprod.scopely.io
++.apt.daili778.org
 +.aptosdevnet.com
 +.aq1r.qilekacha.club
 +.aqnpbpa.cn
@@ -117593,6 +117704,7 @@ ios-pclog.i4.cn
 +.attribution.tmlewinshirts.eu
 +.attribution.wolverine.com
 +.au.res.keymedia.com
++.au1.qualtrics.com
 +.aucqdk.autodoc.es
 +.auctiveltrk.com
 +.aud.ayvens.com
@@ -117642,7 +117754,6 @@ ios-pclog.i4.cn
 +.axpjcp.tennis-point.co.uk
 +.axpvy.cn
 +.axqpn.cn
-+.axscvdcans.xyz
 +.axvnsla.top
 +.axybcz.cn
 +.aysccnn.cn
@@ -117761,7 +117872,6 @@ ios-pclog.i4.cn
 +.baimuyuan.com.cn
 +.bairentou.com.cn
 +.baishui.me
-+.baitalasma.com
 +.baixkw.cn
 +.baizbw.cn
 +.bakeryembedded.com
@@ -117840,7 +117950,6 @@ ios-pclog.i4.cn
 +.bcec266926.5d22c28634.com
 +.bcf8b298d8.6ce5e6f9fc.com
 +.bcfeedback.taobao.com
-+.bcfgkycsn.com
 +.bcigfr.www.uoc.edu
 +.bcivqxd.cn
 +.bcykbhb.cn
@@ -117954,7 +118063,6 @@ ios-pclog.i4.cn
 +.bestpush.pconline.com.cn
 +.bestsurferprotector.com
 +.betfairpk.com
-+.betosslingala.com
 +.betrad.com.edgekey.net
 +.bets.to
 +.bettraff.com
@@ -117986,7 +118094,6 @@ ios-pclog.i4.cn
 +.bhsvlym.cn
 +.bhujiwwb.top
 +.bhulgot.com
-+.biancfdaslkljdsfkw.shop
 +.bibotsays.com
 +.bid.mbidtg.com
 +.bid.onclcktg.com
@@ -118016,6 +118123,7 @@ ios-pclog.i4.cn
 +.bird.webitizevoice.com
 +.birthcaker.cn
 +.bisafniv.space
++.bishopberrian.com
 +.bismetrics.experian.com
 +.bison.equals.community
 +.bison.joshhanley.com.au
@@ -118024,7 +118132,6 @@ ios-pclog.i4.cn
 +.bison.weitweit.at
 +.bit-system.org
 +.bitadexchange.com
-+.bitkiselurunsiparis.com
 +.bitmakerz.biz
 +.bitpie.lol
 +.bitterstrawberry.com
@@ -118125,7 +118232,6 @@ ios-pclog.i4.cn
 +.bnffqb.nilmoto.com
 +.bnlg.fun
 +.bnmla.com
-+.bnmmojmdiegfc.com
 +.bnqlgdj.cn
 +.bnrs.esexa.online
 +.bnsdk.top
@@ -118147,7 +118253,6 @@ ios-pclog.i4.cn
 +.bobcat.pronounce.technology
 +.bobcat.pushplay.nl
 +.bobcat.snapshooter.io
-+.bobs.kraken11op.ru
 +.bodrumshuttle.net
 +.bole8dns.com
 +.bolijiupingchang.com
@@ -118197,7 +118302,6 @@ ios-pclog.i4.cn
 +.brands.kmsmep.com
 +.bravecalculator.com
 +.bravo-dog.com
-+.brazilanimalshelp.com
 +.breezygrove.com
 +.brhwsg.makingnew.co.kr
 +.bridalplums.com
@@ -118450,7 +118554,6 @@ ios-pclog.i4.cn
 +.cards-css.iqiyi.com
 +.cards-sea-nfl.yinzcam.com
 +.careerjournalonline.com
-+.cargoconnect.online
 +.caribou.clintgwinter.com
 +.caribou.color.io
 +.caribou.mcgregorpublishing.com
@@ -118515,7 +118618,6 @@ ios-pclog.i4.cn
 +.cbdzone.online
 +.cbjg.cqnews.net
 +.cbjs.ciwei.in
-+.cbnibtjavoxha.com
 +.cbola-ads-1-t3.us-east-1.elasticbeanstalk.com
 +.cbola-content-1-t3.us-east-1.elasticbeanstalk.com
 +.cbola-logging-1-t3.us-east-1.elasticbeanstalk.com
@@ -118547,6 +118649,7 @@ ios-pclog.i4.cn
 +.ccdace.hupu.com
 +.ccdflm.limberry.de
 +.ccemqe.cn
++.ccforteza.com
 +.ccgjmzv.cn
 +.cchlhb.budgetsport.fi
 +.ccio6rope.cyou
@@ -118572,7 +118675,6 @@ ios-pclog.i4.cn
 +.cd.jejre.cn
 +.cdaonline.com.ar
 +.cdcc8b193b.cc1063ceba.com
-+.cddbwlpqk.xyz
 +.cddp-track.aligames.com
 +.cderyu.club
 +.cdhhbyy.cn
@@ -119232,6 +119334,7 @@ ios-pclog.i4.cn
 +.cnm.xlcktv.com
 +.cnmmcjn.cn
 +.cnnanxing.mobi
++.cnom.sante.gov.ml
 +.cnpask.com
 +.cnpc.infzm.com
 +.cnv.ignmb.com
@@ -119328,6 +119431,7 @@ ios-pclog.i4.cn
 +.config.mobilegamestats.com
 +.confightencedtrk.com
 +.configsvr.msf.3g.qq.com
++.configure.syscatec.com
 +.confirmic.com
 +.confrontation2.fun
 +.congsons.uno
@@ -119586,7 +119690,6 @@ ios-pclog.i4.cn
 +.cqbbpf.geewiz.co.za
 +.cqbkhv.anacapri.com.br
 +.cqcvjzf.cn
-+.cqfbrnzsgns.com
 +.cqnpfyb.cn
 +.cqpmvc.cesoirtv.com
 +.cqqwe2pea.xyz
@@ -119843,7 +119946,6 @@ ios-pclog.i4.cn
 +.d1v99qnc7usc0g.cloudfront.net
 +.d21j20wsoewvjq.cloudfront.net
 +.d222f456fa.4cc4a19f72.com
-+.d238ff9a45.com
 +.d23pi6hvdpcc5i.cloudfront.net
 +.d25ezbwokoefx6.cloudfront.net
 +.d26c6kzavi5zwd.cloudfront.net
@@ -122499,7 +122601,6 @@ ios-pclog.i4.cn
 +.dgozp.com
 +.dgstatic.jd.com
 +.dgtauto.com
-+.dgthcfiwa.com
 +.dgynnj.koctas.com.tr
 +.dharkyu.cn
 +.dhg-logging.us-east-1.elasticbeanstalk.com
@@ -122594,7 +122695,6 @@ ios-pclog.i4.cn
 +.disrepush.com
 +.distantnews.com
 +.ditaow.cn
-+.divotsleucyl.space
 +.diygnmo.cn
 +.dj.1688.com
 +.dj1.baidu.com
@@ -122610,10 +122710,7 @@ ios-pclog.i4.cn
 +.dkudnwb.cn
 +.dkvvwq.aosom.ca
 +.dkxobcs.cn
-+.dkztrcfxisw.com
 +.dl.1003b.56a.com
-+.dl.198424.com
-+.dl.aginjector.com
 +.dl.fotoable.com
 +.dl.ijinshan.com
 +.dl.metabar.ru
@@ -122651,7 +122748,6 @@ ios-pclog.i4.cn
 +.dmtrk.net
 +.dmtu.0m31a.cn
 +.dnckawxatc.com
-+.dnewsfmvgtxpra.com
 +.dngpzy.tradingsat.com
 +.dnm.scloud.lfengmobile.com
 +.dns.jd.com
@@ -122666,6 +122762,7 @@ ios-pclog.i4.cn
 +.docimaging.nuance.com
 +.docodoco.jp
 +.doct-umb.org
++.dod.fastbutters.com
 +.dodi.86zhnc.cn
 +.dodi.meng-an.cn
 +.dog.christinamoore.us
@@ -122706,7 +122803,6 @@ ios-pclog.i4.cn
 +.dore.new-indian-porn.com
 +.doremi.ink
 +.dormouse.consentkit.com
-+.dosnoyhkd.com
 +.dotandad.com
 +.doubleclick-net.com
 +.doubleclick1.xyz
@@ -122724,11 +122820,9 @@ ios-pclog.i4.cn
 +.dove.hoku.nz
 +.down-paradise.com
 +.down.pcclear.com
-+.down.sosoz.xyz
 +.download-file.org
 +.download-performance.com
 +.download.56.com
-+.download.caihong.com
 +.download.changhong.upgrade2.huan.tv
 +.download.howtosellahouse.info
 +.download.pdf00.cn
@@ -123063,7 +123157,6 @@ ios-pclog.i4.cn
 +.e98fe.luytr.com
 +.ea0jlu8jie.cn
 +.eab41496ab.7335ffd8bc.com
-+.eachnykmucntt.com
 +.eagereden.com
 +.eagle.roarfilm.com.au
 +.eakwza.bipicar.com
@@ -123092,7 +123185,6 @@ ios-pclog.i4.cn
 +.ebazhaheiw.top
 +.ebb32c7f0d.7b6d8b978c.com
 +.ebd.cda-hd.cc
-+.ebefseuetqjyg.com
 +.ebfudo.underarmour.cl
 +.ebreid.garneroarredamenti.com
 +.ebtxxz.travellink.se
@@ -123104,7 +123196,6 @@ ios-pclog.i4.cn
 +.echidna.hellotomorrow.agency
 +.echidna.honeybadger.io
 +.eclczg.cn
-+.eclp8oz0m8mxouv96hc9p7k2btydt3iv.click
 +.eco.blendxxx.com
 +.eco.chng5.xyz
 +.eco.hn765f.xyz
@@ -123201,7 +123292,6 @@ ios-pclog.i4.cn
 +.egrnmic.cn
 +.egsxdp.cn
 +.eh.stowingwhelks.com
-+.ehcrmpbrfyrq.com
 +.ehprnuo.cn
 +.ehrlgb.izlato.sk
 +.ehtrack.lifebrandsdigital.com
@@ -123341,7 +123431,6 @@ ios-pclog.i4.cn
 +.enterprises.proximus.com
 +.entertainment3x.fun
 +.entitlements.jwplayer.com
-+.entjryftqwmsus.com
 +.entlyhaveb.autos
 +.entree.igetget.com
 +.entry-system.xyz
@@ -123429,7 +123518,6 @@ ios-pclog.i4.cn
 +.euliglsp.space
 +.eumnxwvp.ink
 +.eurostatsafetyshoes.tw
-+.eusbhnpyhty.com
 +.euvsgap.cn
 +.euyvpgn.cn
 +.ev.100calorias.com
@@ -123554,16 +123642,13 @@ ios-pclog.i4.cn
 +.f99.gdsoq.com
 +.fabric.io
 +.facai1588.xyz
-+.factorylifes.net
 +.fadacaitp.com
-+.faejowvqdmnjwib.xyz
 +.faf796d2a3.969604b4a3.com
 +.fafa1688.xyz
 +.fahmta.accountingweb.co.uk
 +.fahmta.flashbak.com
 +.fahmta.lipsum.com
 +.fahmta.racefans.net
-+.fairiesresorts.com
 +.fairytaleflame.com
 +.falcon.designed.org
 +.falcon.executeprogram.com
@@ -123591,7 +123676,6 @@ ios-pclog.i4.cn
 +.fanyuelin208.club
 +.faokwl.sklepogrodniczy.pl
 +.fapping.club
-+.fappwopyaw.com
 +.faqtjp.redley.com.br
 +.fashiko.com
 +.fashou.wang
@@ -123694,7 +123778,6 @@ ios-pclog.i4.cn
 +.fhlong2000.xyz
 +.fhpjoqi.cn
 +.fhrpqp.futfanatics.com.br
-+.fhrptbwtcmdibr.com
 +.fhserve.com
 +.fhsiqk.xyz
 +.fiko.cpm-toohigh.click
@@ -123704,6 +123787,7 @@ ios-pclog.i4.cn
 +.filekg-download-01.fra1.cdn.digitaloceanspaces.com
 +.files.appsgeyser.com
 +.files.offshore.cat
++.files5.uludagbilisim.com
 +.filter-eu.dollopsdigital.com
 +.filter-eu.expialidosius.com
 +.filter-eu.re-media.info
@@ -123872,7 +123956,6 @@ ios-pclog.i4.cn
 +.fmfbyfk.cn
 +.fmqidg.ouvirmusica.com.br
 +.fmzcdvx.cn
-+.fnmfaoac.xyz
 +.fnmvok.aaaradiatory.cz
 +.focusios.punchh.com
 +.focusonus.top
@@ -123930,7 +124013,6 @@ ios-pclog.i4.cn
 +.fpc.changehealthcare.com
 +.fpida.lingenoel.co.jp
 +.fpida.wacoal.co.jp
-+.fpnakbanlt.com
 +.fpvrgm.blackforestdecor.com
 +.fqsokh.xyz
 +.fra.jouer.click
@@ -123974,7 +124056,6 @@ ios-pclog.i4.cn
 +.frestlinker.com
 +.frgeob.xyz
 +.frisablestrk.com
-+.frmpbwotg.com
 +.frouzyboronia.top
 +.frpns.com
 +.frtyb.com
@@ -123993,7 +124074,6 @@ ios-pclog.i4.cn
 +.ftfnewu.cn
 +.ftnthzv.cn
 +.ftpcontent.worldnow.com
-+.ftxaonydrmajhvv.com
 +.fu.dinaricarrear.com
 +.fuckers.nieuws.xxx
 +.fudezz.kompasiana.com
@@ -124028,14 +124108,12 @@ ios-pclog.i4.cn
 +.fwwjbvz.cn
 +.fx9.freepornoboss.com
 +.fxdwdwv.cn
-+.fxggbfjfi.com
 +.fxx79.pro
 +.fxyg168.com
 +.fyebmf.lifenet-seimei.co.jp
 +.fyesqma.cn
 +.fyfvaxi.cn
 +.fypcy.cyou
-+.fyszjsybkgnwn.com
 +.fyyqq.top
 +.fyzbvwb.cn
 +.fz2c.top
@@ -124284,7 +124362,6 @@ ios-pclog.i4.cn
 +.gitwnd.cn
 +.gizsyj.thegrommet.com
 +.gjeonh.cn
-+.gjhfhgdg.insane.wang
 +.gjndsa.amaro.com
 +.gjohvhf.cn
 +.gjtrack.ucweb.com
@@ -124667,7 +124744,6 @@ ios-pclog.i4.cn
 +.goto1x.me
 +.gotoip55.com
 +.gotoplaymillion.com
-+.goudgctjcgan.com
 +.gouqi.asia
 +.goutong.baidu.com
 +.govchaozhou.cn
@@ -124740,7 +124816,6 @@ ios-pclog.i4.cn
 +.grzhwl.adiamor.com
 +.gscohm.xyz
 +.gsdk.proximabeta.com
-+.gsecumwgxthon.com
 +.gskbzle.cn
 +.gslb.hpplay.cn
 +.gsniper2.com
@@ -124806,7 +124881,6 @@ ios-pclog.i4.cn
 +.gvcaffiliates.com
 +.gvl-dev.setupcmp.com
 +.gvqrclx.cn
-+.gvyyhjyyfdgxij.xyz
 +.gw.365you.com
 +.gw.d.ywopt.com
 +.gwaaz.cn
@@ -124818,7 +124892,6 @@ ios-pclog.i4.cn
 +.gx2f.top
 +.gx4g.top
 +.gx521.xyz
-+.gxgrrrovnlgjcv.xyz
 +.gxkfmjk.cn
 +.gxleat.attenir.co.jp
 +.gxmbr.cn
@@ -124928,7 +125001,6 @@ ios-pclog.i4.cn
 +.hcegdxb.cn
 +.hckjsc.kastner-oehler.at
 +.hcqsuqq.cn
-+.hctiqywqshbpjcc.com
 +.hd.browser.miui.com
 +.hd.hupu.com
 +.hd.xiaomi.com
@@ -124969,6 +125041,7 @@ ios-pclog.i4.cn
 +.heip3keop.cyou
 +.hejing.cloud
 +.hekcctie.cyou
++.heko.ro
 +.helilong.xyz
 +.hell.duttak.com
 +.hello.istrks.com
@@ -125064,9 +125137,11 @@ ios-pclog.i4.cn
 +.hioqbb99.biqugeso.com
 +.hiqrnyn.cn
 +.hirobertrk.com
++.hismokes.shop
 +.hit2k.com
 +.hitman-pro.ru
 +.hitopadxdz.xyz
++.hitstation.nl
 +.hiuplq.flashscore.co.id
 +.hiuplq.flashscore.co.jp
 +.hiuplq.flashscore.com.au
@@ -125100,12 +125175,10 @@ ios-pclog.i4.cn
 +.hmjeiak.cn
 +.hmjiayi.com
 +.hmjyvj.glamira.it
-+.hmngpkkvri.com
 +.hmong-miaojiuyi.com
 +.hmpubc.xyz
 +.hmreuj.com
 +.hmrz.wo.cn
-+.hmxogeovdbotm.com
 +.hmziwy.yearbookordercenter.com
 +.hn-button.herokuapp.com
 +.hnbhrt.xyz
@@ -125215,10 +125288,10 @@ ios-pclog.i4.cn
 +.hqycr.cn
 +.hr.cigna.com
 +.hr.codableprovene.com
++.hr2019.vrcom7.com
 +.hrecsxu.cn
 +.hrjg.com.cn
 +.hrrbc.top
-+.hrsqttgdctyun.com
 +.hrtyh.com
 +.hruk.afguk.top
 +.hruk.gumasi.top
@@ -125336,7 +125409,6 @@ ios-pclog.i4.cn
 +.hwad.zuimeitianqi.com
 +.hwads-t.api.my7v.com
 +.hwanjia.com
-+.hwfnlmmqn.com
 +.hwnmhi.sunbeltrentals.com
 +.hwpub-s01-drcn.cloud.dbankcloud.cn
 +.hwthurmann.de
@@ -125528,9 +125600,7 @@ ios-pclog.i4.cn
 +.iguana.indigospot.com
 +.iguana.vivere.co
 +.igubet.link
-+.ihafiwuxeu.com
 +.ihcrqa.sonnenklar.tv
-+.ihcyscnkogx.com
 +.ihl3ga.hepengshan.cn
 +.ihmbpow.cn
 +.ihngyjp.cn
@@ -125698,7 +125768,6 @@ ios-pclog.i4.cn
 +.incheon.roachh.space
 +.income.lplnow.com
 +.incoming-data-sense360.s3.amazonaws.com
-+.indonesias.me
 +.industry.tafensw.edu.au
 +.info-www.com
 +.info.accupurls.com
@@ -125764,7 +125833,6 @@ ios-pclog.i4.cn
 +.infuseawee.guru
 +.ingatecsus.com.br
 +.ingest.m2appmonitor.com
-+.ingonherbal.com
 +.inhousedsp.com
 +.inkuae.com
 +.inlacom.com
@@ -125833,7 +125901,6 @@ ios-pclog.i4.cn
 +.io.kara-mustafa.website
 +.ioaiaou.cn
 +.ioeq5cead.icu
-+.iojsqcbxoykb.com
 +.iokhsx.unionmonthly.jp
 +.iongsoni.uno
 +.ionqv.cn
@@ -125857,7 +125924,6 @@ ios-pclog.i4.cn
 +.ipgeaif.blairmacintyre.me
 +.ipkasp.nissan.co.jp
 +.ipmatm.cp12.wasu.tv
-+.ipmuvtmonjdwuf.xyz
 +.ipqc5ejfe.icu
 +.iprefer.com.tw
 +.iprpe.cn
@@ -125888,14 +125954,12 @@ ios-pclog.i4.cn
 +.ir002423.cn
 +.irate1x.xyz
 +.irc.qubiankeji.com
-+.ircftp.net
 +.irfiqx.babyneeds.ro
 +.iris.tv
 +.ironweaver.top
 +.irqewz.vilebrequin.com
 +.irr.ru
 +.irritatingfog.com
-+.iryslpno.com
 +.irzwlux.cn
 +.is.snssdk.com
 +.isdspeed.qq.com
@@ -125923,7 +125987,6 @@ ios-pclog.i4.cn
 +.itemslice.com
 +.iteratehq.com
 +.itheq.xyz
-+.ithlmmwluh.com
 +.itjew.xyz
 +.itkdlu.equideow.com
 +.itnxqd.xyz
@@ -126129,11 +126192,9 @@ ios-pclog.i4.cn
 +.jj.198dh.cn
 +.jjdciu.justspices.de
 +.jjk.sxklm.cn
-+.jjvnlfpywgbxgt.com
 +.jk.marketingmaths.com
 +.jkgeyo.urbanara.de
 +.jkk7777.xyz
-+.jknjyfabc.com
 +.jknmsdpo.xyz
 +.jkvbiry.cn
 +.jkwdsl.videt.ro
@@ -126199,12 +126260,9 @@ ios-pclog.i4.cn
 +.joureredtrk.com
 +.joyfulkeen.com
 +.jpai.xyz
-+.jpcuthdkmuonwc.com
 +.jpg.qzmqda.com
 +.jpgtpbl.cn
 +.jphfqq.cn
-+.jpkukgeturqi.com
-+.jplkmeguj.xyz
 +.jpluzr.autoc-one.jp
 +.jpnbhyba.xyz
 +.jpnj.hotpornfile.org
@@ -126307,10 +126365,8 @@ ios-pclog.i4.cn
 +.jw.posiedcaridea.com
 +.jwadakesa.cyou
 +.jweqai.amen.fr
-+.jwfobgoeobehy.com
 +.jwghphm.cn
 +.jwgihca.cn
-+.jwlfduco.com
 +.jwoglda.top
 +.jwvazl.mansurgavriel.com
 +.jwxqmj.thediamondstore.co.uk
@@ -126318,7 +126374,6 @@ ios-pclog.i4.cn
 +.jx.yonnersekere.com
 +.jx3.freepornobook.com
 +.jx8200o4h2.cn
-+.jxaiyxvjtczykq.com
 +.jxbear.xyz
 +.jxlida.ink
 +.jxmzyg.com
@@ -126329,7 +126384,6 @@ ios-pclog.i4.cn
 +.jy.astylararsines.com
 +.jy5izgies.xyz
 +.jy7izgie.xyz
-+.jygkylltb.com
 +.jyigozm.cn
 +.jysbj.cn
 +.jyuicr.codemonkey.com
@@ -126378,7 +126432,6 @@ ios-pclog.i4.cn
 +.kasdwergv.com
 +.katebugs.com
 +.katlacw.cn
-+.katlcqwmrkx.com
 +.katrineholm.innngot.space
 +.kaxlfq.testingwithtestcafe.com
 +.kaya303.lol
@@ -126403,7 +126456,6 @@ ios-pclog.i4.cn
 +.kdl.huaxinsp.cn
 +.kdsnw.today
 +.kdtbpt.brogsitter.de
-+.kebabcheats.ru
 +.keenquill.com
 +.keeyekey.xyz
 +.kejiadoor.cn
@@ -126416,7 +126468,6 @@ ios-pclog.i4.cn
 +.keqvfip.cn
 +.kerchenovias.com
 +.kerio-push-gateway-prod.elasticbeanstalk.com
-+.kervcufrblawcog.com
 +.kesimon.com
 +.ketdexclk.getnewketxplodeoffer.site
 +.ketianguanye.com
@@ -126519,7 +126570,6 @@ ios-pclog.i4.cn
 +.kmlxlkz.cn
 +.kmpjrjz.cn
 +.kmvbre.com
-+.kmxwygco.com
 +.kmzayrt.cn
 +.kn.tzsmab.cn
 +.kn.ylrca.cn
@@ -126552,7 +126602,6 @@ ios-pclog.i4.cn
 +.kop.whwlldjeasd.kuaizq.com
 +.kopun.tuk-tuk.help
 +.korydwf.cn
-+.kpeppgifggwws.com
 +.kpfvaq.schuhe.de
 +.kpns.ijinshan.com
 +.kppav.info
@@ -126568,7 +126617,6 @@ ios-pclog.i4.cn
 +.krill.spoonrage.com
 +.krill.swiss-uke.ch
 +.krqole.xyz
-+.krsvpobbneyj.com
 +.krurkex.com
 +.kryptosda.kryptosmobile.com
 +.krysogsid.uno
@@ -126583,7 +126631,6 @@ ios-pclog.i4.cn
 +.ksdr.xyz
 +.ksnignsd.xyz
 +.ksnoownmd.fun
-+.ksuoodqeiuupey.com
 +.kszpsc.waschbaer.ch
 +.ktbelts.cn
 +.ktggbk.com
@@ -126608,7 +126655,6 @@ ios-pclog.i4.cn
 +.kuyw.cn
 +.kvevv.com
 +.kvhcc.com
-+.kviojoglr.com
 +.kvkaa.com
 +.kvkggg.top
 +.kvrtuse.cn
@@ -126649,6 +126695,7 @@ ios-pclog.i4.cn
 +.l.dm.casio.info
 +.l.erodatalabs.com
 +.l14.xyz
++.l3mon.emilemilchen.de
 +.l4.blink-link.lol
 +.l45.xyz
 +.l4meet.com
@@ -126752,7 +126799,6 @@ ios-pclog.i4.cn
 +.leefmylife.info
 +.leesmee.mirgeht.store
 +.legeignstrk.com
-+.legendsworld.top
 +.lejso.com
 +.lekfso.hitohana.tokyo
 +.lemming.nicolasmenard.com
@@ -126767,6 +126813,7 @@ ios-pclog.i4.cn
 +.leopon.luckycasts.com
 +.leopon.originalmineral.com
 +.lerg.bpafree.cn
++.lestandardsarl.com
 +.letong.xyz
 +.letsconnect.ironmountain.com
 +.letshareus.com
@@ -126779,7 +126826,6 @@ ios-pclog.i4.cn
 +.lf1-cdn-tos.bytegoofy.com
 +.lfapbe.quiksilver.co.jp
 +.lfbowp.talisa.com
-+.lflsoftware.com
 +.lfpfpl.andar.co.kr
 +.lfsenmei.com
 +.lfyqsi.erborian.com
@@ -126790,6 +126836,7 @@ ios-pclog.i4.cn
 +.lgl.ink
 +.lgnlaigl.fun
 +.lgugsnp.cn
++.lh.yjjxz.com
 +.lhare.xyz
 +.lhippac.cn
 +.lhlext.e-aircon.jp
@@ -126871,7 +126918,6 @@ ios-pclog.i4.cn
 +.links.getwalletshield.com
 +.links.strava.com
 +.links.topnewdealsdaily.com
-+.linktoxic34.com
 +.linkvilleplayers.org
 +.linkwarkop4d.com
 +.linuozhiyao.xyz
@@ -126953,7 +126999,6 @@ ios-pclog.i4.cn
 +.lm995.com
 +.lmbsy.qq.com
 +.lmjy.us
-+.lmqbjsuocpyo.com
 +.lmy.de
 +.lningcity.com.cn
 +.lnk.alpha-tonictry.site
@@ -127101,6 +127146,7 @@ ios-pclog.i4.cn
 +.love-yy.company
 +.loveaholics.com
 +.lovecar.net.cn
++.lovepk.top
 +.lowseedotr.com
 +.lowvolatilitysolutions.com
 +.lozjnq.stateandliberty.com
@@ -127287,7 +127333,6 @@ ios-pclog.i4.cn
 +.lrzsksw.cn
 +.ls.hongaries.com
 +.lsaeb.com
-+.lsafrdxtih.com
 +.lsagjogu8ztaueghasdjsdigh.cc
 +.lsbebm.xyz
 +.lscckgm.cn
@@ -128039,6 +128084,7 @@ ios-pclog.i4.cn
 +.marten.countertype.com
 +.marten.joqr.co.jp
 +.marten.supernero.app
++.marvelmetrix.com
 +.mas.marsh.com
 +.masdkv6.3g.qq.com
 +.mastermind.com
@@ -128318,7 +128364,6 @@ ios-pclog.i4.cn
 +.mgbkt9eckr.xn--mgbkt9eckr.net
 +.mgd-adengine.elasticbeanstalk.com
 +.mgnlaigx.fun
-+.mgsgxjgpgumhdu.xyz
 +.mgtcw.top
 +.mh1.zhengdongwuye.cn
 +.mhhsa.xyz
@@ -128359,7 +128404,6 @@ ios-pclog.i4.cn
 +.minnow.mimosaagency.com
 +.minnow.phasemedical.com
 +.minnow.tapas-software.net
-+.minuoddos.xyz
 +.minwear.com.cn
 +.minzhouxinxi.cn
 +.mipengine.baidu.com
@@ -128424,11 +128468,11 @@ ios-pclog.i4.cn
 +.mmaglobal.com
 +.mmalrek.cn
 +.mmlala.com
-+.mmmkwhktalcvvpg.com
 +.mmmyhkl.cn
 +.mmpcqstnkcelx.com
 +.mmrrk.top
 +.mms.cmpsky.com
++.mmtplonline.com
 +.mnbfs.xyz
 +.mnbvbrow.xyz
 +.mncr.xyz
@@ -128531,7 +128575,6 @@ ios-pclog.i4.cn
 +.mongoose.scrumgenius.com
 +.mongoose.thechocolatelife.com
 +.mongsonv.uno
-+.moninediy.com
 +.monitor-ads-test.huan.tv
 +.monkey.colinjohnston.com
 +.monkey.compulsivo.co
@@ -128539,6 +128582,7 @@ ios-pclog.i4.cn
 +.monsido-consent.com
 +.monstelenius.com
 +.monzexn.cn
++.moodle1.feja111.de
 +.mookie1.com.edgekey.net
 +.moonbit.co.in
 +.moordibbletrk.com
@@ -128649,7 +128693,6 @@ ios-pclog.i4.cn
 +.muni360.com
 +.munichiltrk.com
 +.mupmos.levis.com.au
-+.muraovvfovbh.com
 +.murroliving.com.cn
 +.musan.love
 +.musculahq.appspot.com
@@ -128821,7 +128864,6 @@ ios-pclog.i4.cn
 +.mychecklist4u.com
 +.mydomainbest.com
 +.myexpendd.xyz
-+.myfile.neverlose.pl
 +.myfiltration.eaton.com
 +.myhao.club
 +.myhomequotepro.com
@@ -128897,7 +128939,6 @@ ios-pclog.i4.cn
 +.nbdebten0.wealthyguardian.net
 +.nbdebtsp0.wealthyguardian.net
 +.nc.nominaturfy.com
-+.ncbrmfqeiudfxx.com
 +.ncoeqz.today
 +.ncvkzz.cn
 +.ncyx.ltd
@@ -129058,7 +129099,6 @@ ios-pclog.i4.cn
 +.nl-rcd.iqiyi.com
 +.nl.yieldedshotter.com
 +.nlmrjnew.oss-cn-shanghai.aliyuncs.com
-+.nlrhfomyjfhkcv.xyz
 +.nlrpfpq.cn
 +.nlsynmlc.fun
 +.nltihf.fashiondays.ro
@@ -129146,7 +129186,6 @@ ios-pclog.i4.cn
 +.nsweq.xyz
 +.nt-cdn.coccoc.com
 +.nt6f.top
-+.ntbyfjcnwiqfhx.com
 +.ntopcd.underarmour.nl
 +.ntppyc.cn
 +.nttrr.top
@@ -129241,7 +129280,6 @@ ios-pclog.i4.cn
 +.ocxve.xyz
 +.ocyakni.cn
 +.oddyqw.com
-+.odfvtgyptmd.com
 +.odfykc.cn
 +.odghlwo.cn
 +.odjdpy.jobware.de
@@ -129617,6 +129655,7 @@ ios-pclog.i4.cn
 +.paiement.securise.matiprice.com
 +.paiena.xyz
 +.paimgcdn-feed.baidu.com
++.palharesinformatica.com.br
 +.palundrus.com
 +.panaur.com
 +.panda.moritz-petersen.de
@@ -130251,14 +130290,12 @@ ios-pclog.i4.cn
 +.personalization.centech.glulive.com
 +.persorgamtrk.com
 +.pesime.xyz
-+.pevlntoxhatih.com
 +.pexu.com
 +.pfja.top
 +.pfjfj45.xyz
 +.pflhnpu.cn
 +.pfpmmxa.xyz
 +.pfskzj.cn
-+.pfuettchk.com
 +.pfuyhr.schutz.com.br
 +.pg-ad-b1.ws.126.net
 +.pg-ad-b2.ws.126.net
@@ -130387,7 +130424,6 @@ ios-pclog.i4.cn
 +.platypus.tompec.com
 +.platypus.zwei-bags.ch
 +.plausible.avris.it
-+.play.gocgle.cc
 +.play.kakao.com
 +.play.leadzuaf.com
 +.play1ad.shop
@@ -130534,7 +130570,6 @@ ios-pclog.i4.cn
 +.presence.teams.live.com
 +.press-here-to-continue.com
 +.press.thebikecart.com
-+.prestigehomeautomation.net
 +.previallstrk.com
 +.prfuxl.xyz
 +.primate.oleggera.com
@@ -130726,6 +130761,7 @@ ios-pclog.i4.cn
 +.push.esputnik.com.ua
 +.push.estart.jp
 +.push.expert
++.push.ictsd.org
 +.push.idowa.de
 +.push.ilan365.net
 +.push.ilovelanguages.com
@@ -130753,6 +130789,7 @@ ios-pclog.i4.cn
 +.pushere.info
 +.pushid-noneu.truecaller.com
 +.pushid.info
++.pushio.com
 +.pushkapro.com
 +.pushluck.fun
 +.pushly.net
@@ -130841,7 +130878,6 @@ ios-pclog.i4.cn
 +.qelllwrite.com
 +.qeptzff.cn
 +.qertewrt.com
-+.qetdpyialxousr.com
 +.qf1d.top
 +.qfgall.cn
 +.qfgfpi.cn
@@ -131062,7 +131098,6 @@ ios-pclog.i4.cn
 +.r.timbedded.online
 +.r.tropictube.com
 +.r0.mradx.net
-+.r2.ohyoulookstupid.win
 +.r2.tschewang.com
 +.r3adyt0download.com
 +.r3f.technology
@@ -131080,7 +131115,6 @@ ios-pclog.i4.cn
 +.rasearetrk.com
 +.rasmas.inmar.com
 +.rat.gimlet.io
-+.ratemytop.app
 +.ratings-newsletters.standardandpoors.com
 +.raven.konquadrat.de
 +.raven.omamao.ch
@@ -131367,6 +131401,7 @@ ios-pclog.i4.cn
 +.results.uservalidate.co.uk
 +.reton.free-porn-videos.org
 +.retortedstray.com
++.returnofspace.com
 +.revboostprocdnadsprod.azureedge.net
 +.revid.centech.glulive.com
 +.reviewedreads.com
@@ -131936,7 +131971,6 @@ ios-pclog.i4.cn
 +.sailfish.the-psychedelicatessen.com
 +.sailfish.youracademycommunity.com
 +.sailthru.com
-+.sainzim.co.za
 +.sajari.com
 +.salamander.augmentedmind.io
 +.salamander.showandtelldata.com
@@ -132153,7 +132187,6 @@ ios-pclog.i4.cn
 +.secondstreetapp.com
 +.secretchina.com
 +.secure-adnxs.edgekey.net
-+.secure-network-rebirthltd.ru
 +.secure.americasavingplan.com
 +.secure.bamsocks.com
 +.secure.buysenzusharpener.com
@@ -132523,7 +132556,6 @@ ios-pclog.i4.cn
 +.smartcj.com
 +.smarteucookiebanner.upsell-apps.com
 +.smarteucookiebanner.upsell-apps.com.herokudns.com
-+.smartframe.io
 +.smartsavings.click
 +.smelt.allenpike.com
 +.smelt.gautrowski.com
@@ -132712,7 +132744,6 @@ ios-pclog.i4.cn
 +.soagw.pw.xunlei.com
 +.socialize.eu1.gigya.com
 +.socialsend.ru
-+.soft.110route.com
 +.soft.jiegeng.com
 +.softdl.360tpcdn.com
 +.softonixs.xyz
@@ -132775,7 +132806,6 @@ ios-pclog.i4.cn
 +.sp.theladyshop.pk
 +.sp1.freeonlinegayporn.com
 +.spa.arabtoons.net
-+.spaceframe.mobi.space-frame.co.za
 +.spanpromo-link.com
 +.sparkgoal.com
 +.sparkle.locationlabs.com
@@ -132798,6 +132828,7 @@ ios-pclog.i4.cn
 +.spermwhale.rowansimpson.com
 +.spermwhale.thankbox.co
 +.spi.scopeda.xyz
++.spices.com.sg
 +.spider.capricciocolumbus.org
 +.spider.kearneyjaycees.com
 +.spider.scottw.com
@@ -132865,6 +132896,7 @@ ios-pclog.i4.cn
 +.sprint.asapp.com
 +.sprydelta.com
 +.spscah.hitachi-solutions.co.jp
++.spy-ware-dudu.squareweb.app
 +.spyglass.reklon.net
 +.spynet2.microsoft.com
 +.spynetalt.microsoft.com
@@ -132917,15 +132949,14 @@ ios-pclog.i4.cn
 +.srkl.pw
 +.srurzn.cn
 +.srv.dc-1.net
++.srv001e.feja111.de
 +.srv1.mob-srv.com
 +.srv2.tusdk.com
 +.srv2trking.com
 +.srv6.mobpedia.com
 +.srysogsib.uno
-+.ss.02maill.com
 +.ss.6ib.ru
 +.ss.chelaile.net.cn
-+.ss.phallicbedsore.com
 +.ss2a.top
 +.ssacdn.com
 +.ssc.bet.com
@@ -133757,8 +133788,6 @@ ios-pclog.i4.cn
 +.tdedqqv.cn
 +.tdi.cartoonnetwork.com
 +.tdjc.shop
-+.tdrtqjbifwl.com
-+.tdwbcjgaal.com
 +.tdxio.com
 +.te.stionicfives.com
 +.tea.tescobank.com
@@ -133813,7 +133842,6 @@ ios-pclog.i4.cn
 +.test3-dc.sterlingjewelers.com
 +.testads.api.my7v.com
 +.testcommon.soundrussian.com
-+.tetfer.com
 +.tewzc.xyz
 +.tf111.xyz
 +.tfaftemail.com
@@ -133857,7 +133885,6 @@ ios-pclog.i4.cn
 +.thelifeisbinary.netlify.com
 +.thepiratebay.cr
 +.thepiratebay.wtf
-+.thequirkyartman.co.uk
 +.thesafersearch.com
 +.thestrad-gb.thestrad.com
 +.thetimmedia.site
@@ -134896,7 +134923,6 @@ ios-pclog.i4.cn
 +.trans.globalnetworkad.com
 +.transcend-cdn.com
 +.transcendcdn.eventbrite.com
-+.transfer.adttemp.com.br
 +.transit.ncsecu.org
 +.travelwithmanta.co.za
 +.trc.evoheat.shop
@@ -135212,7 +135238,6 @@ ios-pclog.i4.cn
 +.ttbc33.com
 +.ttdds.top
 +.ttfkof.xyz
-+.ttkhtwqi.com
 +.ttn.didyouknowhub.com
 +.ttn.newquirkquest.com
 +.ttn.newsenigmainsight.com
@@ -135426,7 +135451,6 @@ ios-pclog.i4.cn
 +.uncmbg.timberland.de
 +.underpad.asia
 +.understanding3x.fun
-+.unicorpbrunei.com
 +.unimr0k7em.cn
 +.union.dangdang.com
 +.union.duizhuang.com
@@ -135655,6 +135679,7 @@ ios-pclog.i4.cn
 +.veilarlytrk.com
 +.veilesthictrk.com
 +.velingrad.lingos.space
++.veloutinebydelite.ro
 +.vengbald.fun
 +.venulaevavs.com
 +.veqvek.cp24.com
@@ -135664,7 +135689,6 @@ ios-pclog.i4.cn
 +.verdecasino-offers.com
 +.vergilimus.com
 +.verizon.asapp.com
-+.verpasnores.com
 +.vertoz.com
 +.very010.com
 +.verycleaner.cn
@@ -135687,7 +135711,6 @@ ios-pclog.i4.cn
 +.vguibased.com
 +.vh5g.top
 +.vhec.jhjhyn.cn
-+.vhjuiduuetqukl.com
 +.vhlret.cn
 +.vhotlxp.video.qq.com
 +.vhullfc.cn
@@ -135975,7 +135998,6 @@ ios-pclog.i4.cn
 +.wcitianka.com
 +.wcknxoy.cn
 +.wcp.taobao.com
-+.wcyapvikap.com
 +.wdjptto.cn
 +.wdmdejd.cn
 +.wdswgjn.cn
@@ -136294,7 +136316,6 @@ ios-pclog.i4.cn
 +.ws.push-notifs.com
 +.wschao.xyz
 +.wsd.guonongllc.com
-+.wsfpwiih.com
 +.wslits.cn
 +.wsnignse.xyz
 +.wsnoownme.fun
@@ -136893,7 +136914,6 @@ ios-pclog.i4.cn
 +.xyhfc.xyz
 +.xyhly.xyz
 +.xyoss.g.com.cn
-+.xysk5eeyj0j5n.xyz
 +.xyst.glossography.uno
 +.xywy.name
 +.xyxhtyy.cn
@@ -136999,7 +137019,6 @@ ios-pclog.i4.cn
 +.yieldify-static-files.s3.amazonaws.com
 +.yieldlab.net.edgekey.net
 +.yigehong.com.cn
-+.yigypjptnoyxwfi.com
 +.yijiachen.cn
 +.yimingxiang.com.cn
 +.yingjiawm.com
@@ -137177,6 +137196,7 @@ ios-pclog.i4.cn
 +.yzvpco.hfashionmall.com
 +.yzyszy.com
 +.z-m-graph.facebook.com
++.z.shavsl.com
 +.z1.cnywst.com
 +.z1.xysmai.com
 +.z1.zhishidu.com
@@ -137195,7 +137215,6 @@ ios-pclog.i4.cn
 +.zahrvfbd.xyz
 +.zaiaplb.cn
 +.zaihu99.ltd
-+.zaipheetour.com
 +.zajh3a.xyz
 +.zakelijk.cz.nl
 +.zanlisgq.fun
@@ -137466,6 +137485,308 @@ ios-pclog.i4.cn
 +.zzxedr.xyz
 +.zzyanhushi.com
 +.zzzhuoxiaqu.online
++.1438976156.recolution.de
++.1bliq.io
++.7701534.emails.tntdrama.com
++.a8clk.mapple-tour.com
++.a8cv.members.race.sanspo.com
++.aa.cnet.com
++.abt.nike.com
++.ad.kddi-fs.com
++.adb.toggo.de
++.app.accelerate.zoominfo.com
++.app.sephora.com
++.app.update.lenovo.com
++.australiarevival.com
++.cafirebreather.com
++.cfsaze.retailmenot.com
++.click.tv.repubblica.it
++.clicks.tunein.com
++.cmp.telerama.fr
++.cstm.baidu.com
++.cyber-pages.att.com
++.data.em2.cloudflare.com
++.data.securemetrics-apple.com
++.datalayer.orange.fr
++.dbzpek.nike.com
++.dlswbr.baidu.com
++.ds.haaretz.co.il
++.elink.serasaexperian.com.br
++.email.everyonesocial.indeed.com
++.engine.traceparts.com
++.eu-1-id5-sync.com
++.explore.att.com
++.forbes.realclearpolitics.com
++.forms-emea.lenovo.com
++.forms.lenovo.com
++.gotie.tunein.com
++.gtmfsstatic.getgoogletagmanager.com
++.hit.cnbce.com
++.htplayground.com
++.images.business.lenovo.com
++.images.mkt.zoominfo.com
++.images.reldirect.lenovo.com
++.images.smbdirect.lenovo.com
++.insights.att.com
++.iob.imgur.com
++.iqmetrics.spiegel.de
++.iwa.iplsc.com
++.knapia.weightwatchers.com
++.listen.tunein.com
++.log.v.ssp.yahoo.com
++.lordofthesuperfrogs.com
++.metrics.bostonglobe.com
++.metrics.cvs.com
++.metrics.delta.com
++.metrics.el-mundo.net
++.metrics.realclearpolitics.com
++.metrics.retailmenot.com
++.metrics.startribune.com
++.metrics.tntdrama.com
++.metrics.xfinity.com
++.miao.baidu.com
++.microlearning.att.com
++.networkingexchange.att.com
++.o.lenovo.com
++.omns.americanexpress.com
++.opt.delta.com
++.p.minds.com
++.p2ro4u.trybawaryjny.pl
++.pages.att.com
++.powerrobotflower.com
++.pulse.delta.com
++.pxl.indeed.com
++.qljiop.allabout.co.jp
++.qm.redbull.com
++.r.wz.de
++.ras.yahoo.com
++.resources.att.com
++.retcode.taobao.com
++.s.lenovo.com
++.saa.cnet.com
++.sadb.toggo.de
++.sams.spiegel.de
++.sats.spiegel.de
++.securefamilylink.wireless.att.com
++.securemetrics.experience.apple
++.securemvt.apple.com.cn
++.serviceo.xfinity.com
++.serviceos.xfinity.com
++.site.att.com
++.smetrics.bostonglobe.com
++.smetrics.cvs.com
++.smetrics.sephora.com
++.smetrics.startribune.com
++.smetrics.tokbox.com
++.smetrics.toyota.com
++.smodus.nike.com
++.sofire.terabox.app
++.stm.komplett.no
++.t.mediaset.it
++.t.nypost.com
++.target.nationwide.com
++.target.toyota.com
++.target.xfinity.com
++.test-listen.tunein.com
++.tm.jsuol.com.br
++.tmx.bestbuy.com
++.trck.coomeet.com
++.trends.privacywall.org
++.trk.s.sephora.com
++.uglwov.logic-immo.com
++.uim.tifbs.net
++.videocdnmetrika.com
++.vstat.rtr-vesti.ru
++.w6.chabad.org
++.webinars.att.com
++.ww8.kohls.com
++.ww9.kohls.com
++.x.allabout.co.jp
++.yvdxij.applevacations.com
++.17gouwuba.com
++.186078.com
++.189key.com
++.189zj.cn
++.285680.com
++.3721zh.com
++.4009997658.com
++.4336wang.cn
++.51chumoping.com
++.51mld.cn
++.51mypc.cn
++.58mingri.cn
++.58mingtian.cn
++.5vl58stm.com
++.6d63d3.com
++.7gg.cc
++.91veg.com
++.9s6q.cn
++.abbyychina.com
++.akuai.top
++.alienskins.cn
++.anydeskchina.cn
++.atplay.cn
++.baiwanchuangyi.com
++.bartender.cc
++.beerto.cn
++.beilamusi.com
++.benshiw.net
++.betterzip.net
++.betterzipcn.com
++.beyondcompare.cc
++.bianxianmao.com
++.bingdianhuanyuan.cn
++.bkyhq.cn
++.bryonypie.com
++.chemdraw.com.cn
++.cishantao.com
++.cjmakeding.com
++.cjmkt.com
++.codesoftchina.com
++.coreldrawchina.com
++.crossoverchina.com
++.cszlks.com
++.cudaojia.com
++.dafapromo.com
++.daitdai.com
++.dongmansoft.com
++.dsaeerf.com
++.dugesheying.com
++.dv8c1t.cn
++.earmasterchina.cn
++.easyrecoverychina.com
++.echatu.com
++.ediuschina.com
++.erdoscs.com
++.fan-yong.com
++.feih.com.cn
++.fjlqqc.com
++.fkku194.com
++.flash.cn
++.flstudiochina.com
++.folxchina.cn
++.formysql.com
++.freedrive.cn
++.gclick.cn
++.goufanli100.com
++.goupaoerdai.com
++.gouwubang.com
++.gscxs.cn
++.guitarpro.cc
++.gzxnlk.com
++.haoshengtoys.com
++.hbssjd.cn
++.huishenghuiying.com.cn
++.hypeapp.cn
++.hypersnap.net
++.hyunke.com
++.ichaosheng.com
++.iconworkshop.cn
++.idmchina.net
++.imazingchina.com
++.imindmap.cc
++.ishop789.com
++.jdkic.com
++.jihehuaban.com.cn
++.jiubuhua.com
++.jsncke.com
++.junkucm.com
++.jwg365.cn
++.kawo77.com
++.keyshot.cc
++.kingdeecn.cn
++.kuaizip.com
++.kualianyingxiao.cn
++.kumihua.com
++.logoshejishi.com
++.ltheanine.cn
++.luping.net.cn
++.lvehaisen.com
++.mackeeper.com
++.maipinshangmao.com
++.mairuan.cn
++.mairuan.com
++.mairuan.com.cn
++.mairuan.net
++.mairuanwang.com
++.makeding.com
++.mathtype.cn
++.mindmanager.cc
++.mindmanager.cn
++.mindmapper.cc
++.minisplat.cn
++.mkitgfs.com
++.mlnbike.com
++.mobjump.com
++.mycleanmymac.com
++.nbkbgd.cn
++.newapi.com
++.nicelabel.cc
++.ntfsformac.cc
++.ntfsformac.cn
++.officesoftcn.com
++.overturechina.com
++.passwordrecovery.cn
++.pdfexpert.cc
++.photozoomchina.com
++.pinzhitmall.com
++.poppyta.com
++.qianchuanghr.com
++.qichexin.com
++.qinchugudao.com
++.quanliyouxi.cn
++.qutaobi.com
++.ry51w.cn
++.sg536.cn
++.shankejingling.com
++.sifubo.cn
++.sifuce.cn
++.sifuda.cn
++.sifufu.cn
++.sifuge.cn
++.sifugu.cn
++.sifuhe.cn
++.sifuhu.cn
++.sifuji.cn
++.sifuka.cn
++.smgru.net
++.taoggou.com
++.tcxshop.com
++.tjqonline.cn
++.topitme.com
++.tt114.net
++.tt3sm4.cn
++.tuia.cn
++.tuipenguin.com
++.tuitiger.com
++.ultraiso.net
++.urlaw.cn
++.urlet.cn
++.vegaschina.cn
++.websd8.com
++.wsgblw.com
++.wx16999.com
++.xchmai.com
++.xiaohuau.xyz
++.xitongqingli.com
++.xmindchina.net
++.xshellcn.com
++.ygyzx.cn
++.yihuifu.cn
++.yinmong.com
++.yitaopt.com
++.yjqiqi.com
++.yuanchengxiezuo.com
++.yukhj.com
++.zbrushcn.com
++.zhaozecheng.cn
++.zhenxinet.com
++.zhzzx.com
++.zlne800.com
++.zmlled.cn
++.zryydi.com
++.zunmi.cn
++.zzd6.com
 +.0.net.easyjet.com
 +.00px.net
 +.07b3.pandasuite.io
@@ -137505,7 +137826,6 @@ ios-pclog.i4.cn
 +.1a715b8q5m3j.www.logology.co
 +.1amehwchx31.bloxdhop.io
 +.1baq2nvd6n7.www.keevowallet.com
-+.1bliq.io
 +.1bpmtrvkqkj.pettoonies.com
 +.1bw7etm93lf.www.woodbrass.com
 +.1cros.net
@@ -137590,7 +137910,6 @@ ios-pclog.i4.cn
 +.757d.pandasuite.io
 +.76ef.pandasuite.io
 +.76zvoxo5yx0l.www.eldorado.gg
-+.7701534.emails.tntdrama.com
 +.78rkcgj4i8c6.www.cefirates.com
 +.7hdl8dlfjm4g.www.cybernetman.com
 +.7lbd4.armandthiery.fr
@@ -138311,7 +138630,6 @@ ios-pclog.i4.cn
 +.a8clk.macpaw.com
 +.a8clk.manabiz.jp
 +.a8clk.manage.conoha.jp
-+.a8clk.mapple-tour.com
 +.a8clk.marche.onward.co.jp
 +.a8clk.mat.duskin-hozumi.co.jp
 +.a8clk.meister-coating.com
@@ -138785,7 +139103,6 @@ ios-pclog.i4.cn
 +.a8cv.mcc-lazer-hr.com
 +.a8cv.meetsmore.com
 +.a8cv.memberpay.jp
-+.a8cv.members.race.sanspo.com
 +.a8cv.menina-joue.jp
 +.a8cv.mentors-lwc.com
 +.a8cv.mi-vision.co.jp
@@ -139112,7 +139429,6 @@ ios-pclog.i4.cn
 +.aa.cbsi.com
 +.aa.cbsnews.com
 +.aa.cbssports.com
-+.aa.cnet.com
 +.aa.comicbook.com
 +.aa.db-finanzberatung.de
 +.aa.deutsche-bank.de
@@ -139367,7 +139683,6 @@ ios-pclog.i4.cn
 +.absscw.vegis.ro
 +.abt.bauhaus.es
 +.abt.bauhaus.info
-+.abt.nike.com
 +.abt.nl.bauhaus
 +.abuaac.suzette-shop.jp
 +.abuajs.e-monsite.com
@@ -139513,7 +139828,6 @@ ios-pclog.i4.cn
 +.ad.ichiru.net
 +.ad.inhaabit.com
 +.ad.jibunde-esute.com
-+.ad.kddi-fs.com
 +.ad.kirara-support.jp
 +.ad.magokoro-care-shoku.com
 +.ad.ordersuit.info
@@ -139540,7 +139854,6 @@ ios-pclog.i4.cn
 +.adb-secured.kijk.nl
 +.adb.kijk.nl
 +.adb.superrtl.de
-+.adb.toggo.de
 +.adb.toggoeltern.de
 +.adbmetrics.abc.es
 +.adbmetrics.blogasturias.com
@@ -140087,7 +140400,6 @@ ios-pclog.i4.cn
 +.app.8tracks.com
 +.app.aaas-science.org
 +.app.aaptiv.com
-+.app.accelerate.zoominfo.com
 +.app.acekuwait.com
 +.app.activityhero.com
 +.app.aksent.ai
@@ -140685,7 +140997,6 @@ ios-pclog.i4.cn
 +.app.selectyourtickets.com
 +.app.seminoles.com
 +.app.semusi.com
-+.app.sephora.com
 +.app.shopback.com
 +.app.shouta.co
 +.app.showroomprive.com
@@ -140786,7 +141097,6 @@ ios-pclog.i4.cn
 +.app.und.com
 +.app.unlockar.com
 +.app.unlvrebels.com
-+.app.update.lenovo.com
 +.app.update.vodafone.co.uk
 +.app.updates.digicert.com
 +.app.usajaguars.com
@@ -141124,7 +141434,6 @@ ios-pclog.i4.cn
 +.aurum.tirto.id
 +.aus.amexforbusiness.com.au
 +.ausclh.castlery.com
-+.australiarevival.com
 +.auth.carte-gr.total.fr
 +.authsmtp.happ.social
 +.autoimmunity.thermo.com
@@ -141951,7 +142260,6 @@ ios-pclog.i4.cn
 +.caapp.levi.com
 +.caderonline.bu.edu
 +.cadsuta.net
-+.cafirebreather.com
 +.cakmzz.schwab.de
 +.calgary-content.cresa.com
 +.calibration.ni.com
@@ -142095,7 +142403,6 @@ ios-pclog.i4.cn
 +.cfa.fidelity.com
 +.cfaexam.quantresear.ch
 +.cfb.8it.me
-+.cfsaze.retailmenot.com
 +.cfxsss.deerberg.de
 +.cfyhym.weightwatchers.fr
 +.cgctsw.mytour.vn
@@ -142220,7 +142527,6 @@ ios-pclog.i4.cn
 +.click.transactional.carousell.com
 +.click.trycaviar.com
 +.click.trycobble.com
-+.click.tv.repubblica.it
 +.click.uol.com.br
 +.click.vocus.com
 +.click.zoominformation.com
@@ -142249,7 +142555,6 @@ ios-pclog.i4.cn
 +.clicks.staging.worldremit.com
 +.clicks.tableau.com
 +.clicks.thehive.hqo.co
-+.clicks.tunein.com
 +.clicks.variis.com
 +.clicks2.hqo.co
 +.clickserver.libero.it
@@ -142323,8 +142628,8 @@ ios-pclog.i4.cn
 +.cmp.nouvelobs.com
 +.cmp.tech426.com
 +.cmp.tek.no
-+.cmp.telerama.fr
 +.cmp2.channelpartner.de
++.cmpassport.com
 +.cmr.customer.americanexpress.de
 +.cmrcustomer.americanexpress.co.uk
 +.cmrcustomer.americanexpress.es
@@ -142822,6 +143127,7 @@ ios-pclog.i4.cn
 +.counter.proxycrawl.com
 +.counter.subtitlebee.com
 +.counter.websitevoice.com
++.counter.wikiwiki.jp
 +.covenant.psjhealth.org
 +.cowhmc.docmorris.de
 +.coyizl.embracon.com.br
@@ -142831,6 +143137,7 @@ ios-pclog.i4.cn
 +.cp.phiilu.com
 +.cp.rootielearning.com
 +.cpa.hh.ru
++.cpatrk.net
 +.cpgo.avatacar.com
 +.cph.credit-pret-hypothecaire.com
 +.cpihrinfo.cpihr.com
@@ -142896,7 +143203,6 @@ ios-pclog.i4.cn
 +.csm.magnetintell.com
 +.csmetrics.wilton.com
 +.cspmkl.gruppal.com
-+.cstm.baidu.com
 +.csv4.ebs-paris.fr
 +.csvt002.harrisbank.com
 +.csvt005.heretakethewheel.com
@@ -143046,7 +143352,6 @@ ios-pclog.i4.cn
 +.cx.quadient.com
 +.cxalid.turtlebeach.com
 +.cxasci.sprzedajemy.pl
-+.cxense.com
 +.cxm.ingeniux.com
 +.cxrfns.gu-global.com
 +.cxrptu.danland.dk
@@ -143054,7 +143359,6 @@ ios-pclog.i4.cn
 +.cxwisl.jetstereo.com
 +.cy98g9wuwn0n.angularjs.poc.glenigan.com
 +.cybba.solutions
-+.cyber-pages.att.com
 +.cyber.boozallen.com
 +.cyf9.destinia.cl
 +.cyohmj.catawiki.com
@@ -143279,7 +143583,6 @@ ios-pclog.i4.cn
 +.data.em.t-mobile.com
 +.data.em.viking.com
 +.data.em.vikingcruises.com
-+.data.em2.cloudflare.com
 +.data.email-discovery.cjm.adobe.com
 +.data.email-disney.cjm.adobe.com
 +.data.email-kpn.cjm.adobe.com
@@ -143447,7 +143750,6 @@ ios-pclog.i4.cn
 +.data.rewards.riteaid.com
 +.data.ricaud.com
 +.data.rmsocio.realmadrid.com
-+.data.securemetrics-apple.com
 +.data.segugio.it
 +.data.seguridad.ficohsa.com.gt
 +.data.service.aware.com.au
@@ -143503,7 +143805,6 @@ ios-pclog.i4.cn
 +.data1.virginplus.ca
 +.datadome.maisonsdumonde.com
 +.datadome.patreon.com
-+.datalayer.orange.fr
 +.dataofpages.com
 +.datas.connectingthreads.com
 +.datas.knitpicks.com
@@ -143521,7 +143822,6 @@ ios-pclog.i4.cn
 +.dbmyvl.apartmentfinder.com
 +.dbpbyh.americanas.com.br
 +.dbzgtg.infostrada.it
-+.dbzpek.nike.com
 +.dc.areacliente.repsolluzygas.com
 +.dc.bluecoat.com
 +.dc.kfz-steuercheck.de
@@ -144016,7 +144316,6 @@ ios-pclog.i4.cn
 +.dls-account.di.atlas.samsung.com
 +.dls-b23-link.ip.twelve99.net.iberostar.com
 +.dls.guidrr.com
-+.dlswbr.baidu.com
 +.dluat.pokerbros.net
 +.dluat.supremapoker.net
 +.dlxpix.net
@@ -144118,7 +144417,6 @@ ios-pclog.i4.cn
 +.drugtest.questdiagnostics.com
 +.druzja.canmart.co.kr
 +.drvive.lamoda.ru
-+.ds.haaretz.co.il
 +.ds.webprojectslab.com
 +.ds2.independer.nl
 +.dsdjbj.abracadabra.com.br
@@ -144506,7 +144804,6 @@ ios-pclog.i4.cn
 +.elijah.tantawy.app
 +.elink.altru.org
 +.elink.rushcopley.com
-+.elink.serasaexperian.com.br
 +.elinks.dice.com
 +.eliteclng.ericksonbuilt.com
 +.ellypsio.net.jumia.com.ng
@@ -144815,7 +145112,6 @@ ios-pclog.i4.cn
 +.email.everyonesocial.dykema.com
 +.email.everyonesocial.frontier.com
 +.email.everyonesocial.hmausa.com
-+.email.everyonesocial.indeed.com
 +.email.everyonesocial.inmoment.com
 +.email.everyonesocial.integritystaffing.com
 +.email.everyonesocial.lexisnexisrisk.com
@@ -145060,7 +145356,6 @@ ios-pclog.i4.cn
 +.engagemetrics.cisco.com
 +.engageru.3mrussia.ru
 +.engageru2.3mrussia.ru
-+.engine.traceparts.com
 +.eniac.net.jumia.com.gh
 +.eniobs.moncler.com
 +.enohcw.flyin.com
@@ -145068,7 +145363,6 @@ ios-pclog.i4.cn
 +.enroll.workforcewellness.com
 +.enrolldi.glic.com
 +.ens.luzernerzeitung.ch
-+.ens.nzz.ch
 +.ens.tagblatt.ch
 +.enterprise.dnb.ca
 +.enterprise2.secureforms.mcafee.com
@@ -145149,7 +145443,6 @@ ios-pclog.i4.cn
 +.etwovr.underarmour.eu
 +.etx.indiatimes.com
 +.etznkn.ec-store.net
-+.eu-1-id5-sync.com
 +.eu.business.samsung.com
 +.eu.cignaglobalhealth.com
 +.eu.gldn.io
@@ -145330,7 +145623,6 @@ ios-pclog.i4.cn
 +.explore-ft.agilent.com
 +.explore-uat.agilent.com
 +.explore.agilent.com
-+.explore.att.com
 +.explore.broncos.com.au
 +.explore.bytelab.uk
 +.explore.code3esg.com
@@ -145540,14 +145832,12 @@ ios-pclog.i4.cn
 +.foodbrochure.advancedtech.com
 +.foodpackaging.kpfilms.com
 +.foodsouvlakibar.openapp.link
-+.forbes.realclearpolitics.com
 +.forex.americanexpress.com
 +.form.fusesource.com
 +.form.harvardbusiness.org
 +.form.innovative-design-lab.com
 +.form.vocalink.com
 +.formaciones.arin-innovation.com
-+.forms-emea.lenovo.com
 +.forms.accc-cancer.org
 +.forms.anthology.com
 +.forms.b.oncourselearning.com
@@ -145576,7 +145866,6 @@ ios-pclog.i4.cn
 +.forms.infor.com
 +.forms.irdeto.com
 +.forms.juniper.net
-+.forms.lenovo.com
 +.forms.mcgladrey.com
 +.forms.mdreducation.com
 +.forms.messe-muenchen.de
@@ -146084,7 +146373,6 @@ ios-pclog.i4.cn
 +.globaleloqua.americanexpress.com
 +.globalsolutions.risk.lexisnexis.com
 +.globo-ab.globo.com
-+.glookup.info
 +.glue.evansadhesive.com
 +.glxdlf.tickets.ua
 +.glxmao.eterna.de
@@ -146436,6 +146724,7 @@ ios-pclog.i4.cn
 +.go.ondutydoc.com
 +.go.onecart.co.za
 +.go.onefc.com
++.go.oracle.com
 +.go.oroinc.com
 +.go.ortholive.com
 +.go.ovsoftware.nl
@@ -146634,7 +146923,6 @@ ios-pclog.i4.cn
 +.godev.steps.me
 +.gomerchant.groupon.com
 +.gone.pronhub.fun
-+.googleoptimize.com
 +.googletagmanager.com
 +.goseri-link.mysuki.io
 +.gotest.bouncie.com
@@ -146642,7 +146930,6 @@ ios-pclog.i4.cn
 +.gotest.onefc.com
 +.gotest.real.co
 +.gotest.taillight.com
-+.gotie.tunein.com
 +.goto.benchmarkeducation.com
 +.goto.benchmarkuniverse.com
 +.goto.firsttechfed.com
@@ -146659,6 +146946,7 @@ ios-pclog.i4.cn
 +.government.informaengage.com
 +.governmentcloud.avaya.com
 +.goya.rutube.ru
++.gozendata.com
 +.gozncj.stealthangelsurvival.com
 +.gp.oddo-bhf.com
 +.gpiljd.thetiebar.com
@@ -146704,7 +146992,6 @@ ios-pclog.i4.cn
 +.gsyegj.shatura.com
 +.gtgvze.chintai.net
 +.gtm.wise.com
-+.gtmfsstatic.getgoogletagmanager.com
 +.gtreus.aliexpress.com
 +.gtzpic.opodo.co.uk
 +.guardian-app.hotdoc.com.au
@@ -146738,6 +147025,8 @@ ios-pclog.i4.cn
 +.gyvzjp.conradelektronik.dk
 +.gyxtyd.yummicandles.com
 +.gyydua.dakine.com
++.gz-data.com
++.gzads.com
 +.gzbcuy.mamarella.com
 +.gzjroa.bradsdeals.com
 +.gzlxvg.papy.co.jp
@@ -146965,7 +147254,6 @@ ios-pclog.i4.cn
 +.htc.oaken.com
 +.htcnbx.odkarla.cz
 +.htmgrl.jollyroom.no
-+.htplayground.com
 +.htqfxh.vuch.cz
 +.htrace.wetvinfo.com
 +.httr.redskins.com
@@ -147059,6 +147347,7 @@ ios-pclog.i4.cn
 +.iconmediapixel.com
 +.iconnode.com
 +.id-ward.com
++.id6.me
 +.idbkfy.kango-roo.com
 +.ideas.nanawall.com
 +.idg1.idgarages.com
@@ -147155,7 +147444,6 @@ ios-pclog.i4.cn
 +.images.bounceback.chiesiusa.com
 +.images.brand.j2.com
 +.images.business.fedex.com
-+.images.business.lenovo.com
 +.images.by.sensiolabs.com
 +.images.campaign.crmit.com
 +.images.campaign.reedexpo.at
@@ -147494,7 +147782,6 @@ ios-pclog.i4.cn
 +.images.mkt.acindar.com.ar
 +.images.mkt.movida.com.br
 +.images.mkt.nectarconsulting.com.br
-+.images.mkt.zoominfo.com
 +.images.mkt.zte.com.cn
 +.images.mktg.dynabook.com
 +.images.mktgassets.symantec.com
@@ -147553,7 +147840,6 @@ ios-pclog.i4.cn
 +.images.read.aspiresys.com
 +.images.register.deloittece.com
 +.images.register.lighthouse-media.com
-+.images.reldirect.lenovo.com
 +.images.respond.macktrucks.com
 +.images.respond.overheaddoor.com
 +.images.respons.aftenposten.no
@@ -147599,7 +147885,6 @@ ios-pclog.i4.cn
 +.images.share.iheartmedia.com
 +.images.siteconnect.quintiles.com
 +.images.smartpay.changehealthcare.com
-+.images.smbdirect.lenovo.com
 +.images.solutions.createyournextcustomer.com
 +.images.solutions.dexmedia.com
 +.images.solutions.halliburton.com
@@ -147675,7 +147960,6 @@ ios-pclog.i4.cn
 +.imgict.dwtcmarketing.com
 +.imginfo.insource.co.jp
 +.imgmail.mediasetpremium.it
-+.imgstat.baidu.com
 +.imhwzc.blibli.com
 +.imjdmq.emcasa.com
 +.imjsfy.allbeauty.com
@@ -147685,7 +147969,6 @@ ios-pclog.i4.cn
 +.impactcdn.com
 +.impactradius-event.com
 +.improve.tempest.com
-+.imrworldwide.com
 +.in-business.vodafone.com
 +.in-go.experian.com
 +.in-mktg.vodafone.com
@@ -148492,7 +148775,6 @@ ios-pclog.i4.cn
 +.insights.aiu.edu.au
 +.insights.aiu.sg
 +.insights.atradiuscollections.com
-+.insights.att.com
 +.insights.avad3.com
 +.insights.biallo.de
 +.insights.blueplanet.com
@@ -148604,7 +148886,6 @@ ios-pclog.i4.cn
 +.invited.louwmanexclusive.nl
 +.invites.nospace.app
 +.io.piupiu.io
-+.iob.imgur.com
 +.ioeczq.juno.co.uk
 +.ioedpk.oneill.com
 +.iofeth.pulsee.it
@@ -148637,7 +148918,6 @@ ios-pclog.i4.cn
 +.iqmetrics.faz.net
 +.iqmetrics.handelsblatt.com
 +.iqmetrics.manager-magazin.de
-+.iqmetrics.spiegel.de
 +.iqmetrics.sueddeutsche.de
 +.iqpizza.openapp.link
 +.iquirc.motionrc.com
@@ -148681,7 +148961,6 @@ ios-pclog.i4.cn
 +.ivrnfvlcgubm.www.cefirates.com
 +.ivx.lacompagnie.com
 +.iw.pentonmarketingsvcs.com
-+.iwa.iplsc.com
 +.iwgfdj.iko-yo.net
 +.iwhzhi.packstyle.jp
 +.iwl2d7pa4yx1.www.logology.co
@@ -149029,7 +149308,6 @@ ios-pclog.i4.cn
 +.kmqghr.bristolshop.be
 +.kmqhmn.helen-marlen.com
 +.kn81kivjwwc7.www.logology.co
-+.knapia.weightwatchers.com
 +.knlqeu.jewlr.com
 +.knopnf.asambeauty.com
 +.knorzj.wearfigs.com
@@ -150195,7 +150473,6 @@ ios-pclog.i4.cn
 +.lio8.destinia.com.pa
 +.liosix.mtvuutiset.fi
 +.listen.trakks.com
-+.listen.tunein.com
 +.listing-a8-itp.hello-storage.com
 +.live.alljobs.co.il
 +.live.comunicaciones.jetstereo.com
@@ -150263,7 +150540,6 @@ ios-pclog.i4.cn
 +.log.rabobank.nl
 +.log.ren.tv
 +.log.rhythmtowers.com
-+.log.v.ssp.yahoo.com
 +.log.zongheng.com
 +.log2.sina.cn
 +.logger.rm.uol.com.br
@@ -150284,7 +150560,6 @@ ios-pclog.i4.cn
 +.logtail.com
 +.look-ahead.nurturemarketing.com
 +.loopcybersec.com
-+.lordofthesuperfrogs.com
 +.lotte.myomee.com
 +.loveeveryday.brighterkind.com
 +.lowgxl.yokumoku.jp
@@ -152729,7 +153004,6 @@ ios-pclog.i4.cn
 +.metrics.bose.ca
 +.metrics.bose.co.jp
 +.metrics.bose.com
-+.metrics.bostonglobe.com
 +.metrics.bostonscientific.com
 +.metrics.bridgespanhealth.com
 +.metrics.bridgestoneamericas.com
@@ -152850,7 +153124,6 @@ ios-pclog.i4.cn
 +.metrics.csu.edu.au
 +.metrics.ctv.ca
 +.metrics.currys.co.uk
-+.metrics.cvs.com
 +.metrics.cycleworld.com
 +.metrics.cytivalifesciences.com
 +.metrics.dailystrength.org
@@ -152865,7 +153138,6 @@ ios-pclog.i4.cn
 +.metrics.deakin.edu.au
 +.metrics.defenseone.com
 +.metrics.delicious.com.au
-+.metrics.delta.com
 +.metrics.delwebb.com
 +.metrics.dentalcompare.com
 +.metrics.depakoteer.com
@@ -152935,7 +153207,6 @@ ios-pclog.i4.cn
 +.metrics.ehealthinsurance.com
 +.metrics.eiu.com
 +.metrics.eki-net.com
-+.metrics.el-mundo.net
 +.metrics.elal.com
 +.metrics.electronicdesign.com
 +.metrics.elgiganten.dk
@@ -153525,7 +153796,6 @@ ios-pclog.i4.cn
 +.metrics.rarediseasesignup.com
 +.metrics.rbcgam.com
 +.metrics.rci.com
-+.metrics.realclearpolitics.com
 +.metrics.reallymoving.com
 +.metrics.realpropertymgt.com
 +.metrics.realsimple.com
@@ -153544,7 +153814,6 @@ ios-pclog.i4.cn
 +.metrics.restaurantonline.co.uk
 +.metrics.restockit.com
 +.metrics.retail-week.com
-+.metrics.retailmenot.com
 +.metrics.rethinksma.com
 +.metrics.rewe-reisen.de
 +.metrics.rewe.de
@@ -153592,7 +153861,6 @@ ios-pclog.i4.cn
 +.metrics.seloger.com
 +.metrics.sensai-cosmetics.com
 +.metrics.sentido.com
-+.metrics.sephora.com
 +.metrics.sephora.fr
 +.metrics.sephora.it
 +.metrics.sfchronicle.com
@@ -153653,7 +153921,6 @@ ios-pclog.i4.cn
 +.metrics.staples.com.au
 +.metrics.staplesadvantage.com
 +.metrics.starhub.com
-+.metrics.startribune.com
 +.metrics.statefarm.com
 +.metrics.statestreet.com
 +.metrics.steelcase.com
@@ -153748,7 +154015,6 @@ ios-pclog.i4.cn
 +.metrics.tlc.com
 +.metrics.tmz.com
 +.metrics.tnkase.com
-+.metrics.tntdrama.com
 +.metrics.tollbrothers.com
 +.metrics.tommy.com
 +.metrics.tomsofmaine.com
@@ -153763,7 +154029,6 @@ ios-pclog.i4.cn
 +.metrics.toryburch.com
 +.metrics.totalwine.com
 +.metrics.townsvillebulletin.com.au
-+.metrics.toyota.com
 +.metrics.toyotacertificados.com
 +.metrics.toyotacertified.com
 +.metrics.tp.edu.sg
@@ -153886,7 +154151,6 @@ ios-pclog.i4.cn
 +.metrics.www.apus.edu
 +.metrics.www.vwfs.de
 +.metrics.wyndhamtrips.com
-+.metrics.xfinity.com
 +.metrics.xofluza.com
 +.metrics.xolairhcp.com
 +.metrics.ybs.co.uk
@@ -153958,10 +154222,8 @@ ios-pclog.i4.cn
 +.mi.miliboo.es
 +.mi.miliboo.it
 +.mi.miliboo.lu
-+.miao.baidu.com
 +.micro.workplaceinvesting.fidelity.com
 +.microfocus.qm-g.com
-+.microlearning.att.com
 +.microsite.pbs.org
 +.microsite.standardandpoors.com
 +.microsoft.eventionapp.com
@@ -154132,6 +154394,7 @@ ios-pclog.i4.cn
 +.mp.pitchero.com
 +.mp.theepochtimes.com
 +.mpakal.openapp.link
++.mparticle.com
 +.mpglie.apartmentguide.com
 +.mpjtif.viabovag.nl
 +.mqejtk.theproteinworks.com
@@ -154351,7 +154614,6 @@ ios-pclog.i4.cn
 +.network.conterra.com
 +.network.lightpathfiber.com
 +.network.wintechnology.com
-+.networkingexchange.att.com
 +.networkprotection.mcafee.com
 +.networks.balluff.com
 +.newjersey-content.cresa.com
@@ -154619,7 +154881,6 @@ ios-pclog.i4.cn
 +.o.fandango.com
 +.o.hmwy.io
 +.o.j2.com
-+.o.lenovo.com
 +.o.macworld.co.uk
 +.o.medallia.com
 +.o.mylifetime.com
@@ -154837,7 +155098,6 @@ ios-pclog.i4.cn
 +.omnistats.teleflora.com
 +.omnit.blinkfitness.com
 +.omnit.pureyoga.com
-+.omns.americanexpress.com
 +.omns.crackle.com
 +.omns.murdoch.edu.au
 +.ompx.shopbop.com
@@ -154894,7 +155154,6 @@ ios-pclog.i4.cn
 +.omtr2.partners.salesforce.com
 +.omtrdc.jobsdb.com
 +.omtrdc.jobstreet.com
-+.omtrdc.net
 +.omtrns.sstats.q8.dk
 +.omvzcq.vidaxl.be
 +.on.allposters.com
@@ -154979,7 +155238,6 @@ ios-pclog.i4.cn
 +.opportunity.businessbroker.net
 +.oppuz.com
 +.ops.sunpowercorp.com
-+.opt.delta.com
 +.opti-digital.com
 +.opticksprotection.com
 +.optifiantsion.carte-gr.total.fr
@@ -155143,7 +155401,6 @@ ios-pclog.i4.cn
 +.p.logbox.io
 +.p.marqueplace.com
 +.p.meilentrio.de
-+.p.minds.com
 +.p.pagesjaunes.fr
 +.p.pmu.fr
 +.p.ryanhalliday.com
@@ -155164,7 +155421,6 @@ ios-pclog.i4.cn
 +.p2.danskebank.no
 +.p2.danskebank.se
 +.p2r14.com
-+.p2ro4u.trybawaryjny.pl
 +.p3tq.pandasuite.io
 +.p5mcwdbu.ginzo-buy.jp
 +.p7cloud.net
@@ -155196,7 +155452,6 @@ ios-pclog.i4.cn
 +.pagename.care.ummhealth.org
 +.pages.applatix.com
 +.pages.arabiancentres.com
-+.pages.att.com
 +.pages.aureon.com
 +.pages.batteryworld.com.au
 +.pages.bayer.com
@@ -155266,6 +155521,7 @@ ios-pclog.i4.cn
 +.paqqlk.motatos.de
 +.paramedicexam.quantresear.ch
 +.pardko.pricerunner.com
++.pardot.com
 +.parentapp.byjus.com
 +.parents.app.playosmo.com
 +.partenaireslld.temsys.fr
@@ -155660,7 +155916,6 @@ ios-pclog.i4.cn
 +.postgraduate.smu.edu.sg
 +.postgraduate2.smu.edu.sg
 +.power.viggo.com
-+.powerrobotflower.com
 +.powerup.rsaworks.com
 +.pp.promocionesfarma.com
 +.pp.scorecardrewards.com
@@ -155686,6 +155941,7 @@ ios-pclog.i4.cn
 +.prasserie.openapp.link
 +.pre-employmentservices.adp.com
 +.prealpha.go.levelbank.com
++.predic.io
 +.preference.motorolasolutions.com
 +.preference.nuance.com
 +.preferencecenter.fticonsulting.com
@@ -155842,7 +156098,6 @@ ios-pclog.i4.cn
 +.pudalz.gismeteo.by
 +.puiwrs.misterspex.de
 +.pulsar.ebay.com
-+.pulse.delta.com
 +.pumlmb.netcologne.de
 +.puritysts.purityproducts.com
 +.purple.mongodb.com
@@ -155864,7 +156119,6 @@ ios-pclog.i4.cn
 +.pvn.rewe.de
 +.pvoheg.bubbleroom.se
 +.pvrugd.nieruchomosci-online.pl
-+.pvtag.yahoo.co.jp
 +.pvx.xcar.com.cn
 +.pwtftm.shingaku.mynavi.jp
 +.px-intl.ucweb.com
@@ -155875,7 +156129,6 @@ ios-pclog.i4.cn
 +.pxbnou.ig.com.br
 +.pxc.otto.de
 +.pxgpnp.angara.com
-+.pxl.indeed.com
 +.pxmzlk.redfin.com
 +.pxsg.pandora.com
 +.pxvlcc.crocs.fr
@@ -155957,13 +156210,11 @@ ios-pclog.i4.cn
 +.qjurou.laredoute.com
 +.qjxiyt.respect-shoes.ru
 +.qkhhjm.autoscout24.nl
-+.qljiop.allabout.co.jp
 +.qllxvh.shopstyle.com
 +.qlp.egghead.link
 +.qlqvej.bahia-principe.com
 +.qlsngs.paruvendu.fr
 +.qlsszi.lululemon.co.nz
-+.qm.redbull.com
 +.qmcwpi.naturitas.es
 +.qmiiln.tower.jp
 +.qmlzcm.petshop.ru
@@ -156067,7 +156318,6 @@ ios-pclog.i4.cn
 +.r.presspadnews.com
 +.r.rover.com
 +.r.sportsie.com
-+.r.wz.de
 +.r1ztni.oui.sncf
 +.r2r.utas.edu.au
 +.r42tag.com
@@ -156084,7 +156334,6 @@ ios-pclog.i4.cn
 +.rapidzebra.io
 +.raqwjl.dienthoaigiakho.vn
 +.rarnational.raisingareader.org
-+.ras.yahoo.com
 +.raspnd.quadratec.com
 +.ratings-events.standardandpoors.com
 +.rb.groc.press
@@ -156262,7 +156511,6 @@ ios-pclog.i4.cn
 +.resources.acarasolutions.in
 +.resources.activatems.com
 +.resources.aldec.com
-+.resources.att.com
 +.resources.biz-tech-insights.com
 +.resources.blueprintgenetics.com
 +.resources.broadleafresults.com
@@ -156364,7 +156612,6 @@ ios-pclog.i4.cn
 +.ressources.usine-nouvelle.com
 +.results.sierrapiedmont.com
 +.retarget.gites-de-france.com
-+.retcode.taobao.com
 +.retention.ankidecks.com
 +.rethink.adp.com
 +.retirement.newyorklifeannuities.com
@@ -156468,6 +156715,7 @@ ios-pclog.i4.cn
 +.rt.prnewswire.com
 +.rta2.inews.co.uk
 +.rtactivate.com
++.rtbasia.com
 +.rtds.progressive.com
 +.rtek-link.shares.social
 +.rtmugo.deindeal.ch
@@ -156565,7 +156813,6 @@ ios-pclog.i4.cn
 +.s.inspectelement.co
 +.s.justblinds.com
 +.s.latam.cemex.com
-+.s.lenovo.com
 +.s.leolabs.org
 +.s.lexusfinancial.com
 +.s.mannes.tech
@@ -156707,7 +156954,6 @@ ios-pclog.i4.cn
 +.saa.cbsi.com
 +.saa.cbsnews.com
 +.saa.cbssports.com
-+.saa.cnet.com
 +.saa.collegesportslive.com
 +.saa.comicbook.com
 +.saa.dabl.com
@@ -156799,7 +157045,6 @@ ios-pclog.i4.cn
 +.saclel.zotapay.com
 +.sadb.superrtl-licensing.de
 +.sadb.superrtl.de
-+.sadb.toggo.de
 +.sadb.toggoeltern.de
 +.sadbelytics.munichre.com
 +.sadbmetrics.15kvalencia.es
@@ -156932,7 +157177,6 @@ ios-pclog.i4.cn
 +.samc.zuerilaufcup.ch
 +.sametrics.finn.no
 +.samia.net.anwalt.de
-+.sams.spiegel.de
 +.samt.frankly.ch
 +.samt.swisscanto.com
 +.samt.zkb.ch
@@ -156975,7 +157219,6 @@ ios-pclog.i4.cn
 +.satgt.grafana.com
 +.sats.mailbrew.com
 +.sats.manager-magazin.de
-+.sats.spiegel.de
 +.save.salary.com.au
 +.save.smartsalary.com.au
 +.savings.adp.ca
@@ -157082,6 +157325,7 @@ ios-pclog.i4.cn
 +.scookies-adobe.kbclease.lu
 +.scookies-adobe.kbcsecurities.com
 +.scookies-adobe.kching.be
++.scorecardresearch.com
 +.scout.alpinetrek.co.uk
 +.scout.alpiniste.fr
 +.scout.berg-freunde.at
@@ -157301,7 +157545,6 @@ ios-pclog.i4.cn
 +.securedigital.pru.mandg.com
 +.securedigital.prudential.co.uk
 +.securedigital.wealth.mandg.com
-+.securefamilylink.wireless.att.com
 +.secureflashplayerfeedback.adobe.com
 +.secureform.adaptris.com
 +.secureform.farmplan.co.uk
@@ -157325,14 +157568,12 @@ ios-pclog.i4.cn
 +.securemetrics.blackrock.com
 +.securemetrics.brhome.com
 +.securemetrics.dailycandy.com
-+.securemetrics.experience.apple
 +.securemetrics.gap.co.jp
 +.securemetrics.gap.co.uk
 +.securemetrics.gap.eu
 +.securemetrics.gpsuniforms.com
 +.securemetrics.marthastewart.com
 +.securemetrics.nbnco.com.au
-+.securemvt.apple.com.cn
 +.securestats.cafepress.com
 +.securestats.callawaygolf.com
 +.securetags.aeroterra.com
@@ -157367,6 +157608,7 @@ ios-pclog.i4.cn
 +.see.yousoon.com
 +.seek.intel.com
 +.seek.uwa.edu.au
++.seewhy.com
 +.sefkal.openapp.link
 +.segment-api.inrix.com
 +.sejdfu.coeur.de
@@ -157463,6 +157705,7 @@ ios-pclog.i4.cn
 +.seniorliving.wyndemerelcs.com
 +.seniors.fairportbaptisthomes.org
 +.sense.cliexa.com
++.sentiance.com
 +.sentiment.icis.com
 +.sentry.music.163.com
 +.seo.tkc110.jp
@@ -157482,9 +157725,7 @@ ios-pclog.i4.cn
 +.service.pacstainless.com
 +.service.vrp.com
 +.serviceo.comcast.net
-+.serviceo.xfinity.com
 +.serviceos.comcast.net
-+.serviceos.xfinity.com
 +.services.bdc.ca
 +.services.blackboard.com
 +.services.cairn.info
@@ -157709,7 +157950,6 @@ ios-pclog.i4.cn
 +.sit-metrics.nab.com.au
 +.sit-smetrics.nab.com.au
 +.site-stats.supernotes.app
-+.site.att.com
 +.site.comunicaciones.iesa.es
 +.site.connect.mydrreddys.com
 +.site.emarketer.com
@@ -158283,7 +158523,6 @@ ios-pclog.i4.cn
 +.smetrics.boscovs.com
 +.smetrics.boss.info
 +.smetrics.boston.com
-+.smetrics.bostonglobe.com
 +.smetrics.bottegaverde.es
 +.smetrics.bottegaverde.it
 +.smetrics.boundaryford.com
@@ -158551,7 +158790,6 @@ ios-pclog.i4.cn
 +.smetrics.currys.co.uk
 +.smetrics.customersvc.com
 +.smetrics.customs.pwc.com
-+.smetrics.cvs.com
 +.smetrics.cvty.com
 +.smetrics.cycleworld.com
 +.smetrics.cyrillus.be
@@ -158576,7 +158814,6 @@ ios-pclog.i4.cn
 +.smetrics.dekalb.com.mx
 +.smetrics.dekalbasgrowdeltapine.com
 +.smetrics.delacon.com.au
-+.smetrics.delta.com
 +.smetrics.deltacargo.com
 +.smetrics.deltafarmpress.com
 +.smetrics.demarini.com
@@ -160101,7 +160338,6 @@ ios-pclog.i4.cn
 +.smetrics.seloger.com
 +.smetrics.sen.com.au
 +.smetrics.sensai-cosmetics.com
-+.smetrics.sephora.com
 +.smetrics.sephora.fr
 +.smetrics.sephora.it
 +.smetrics.sephora.pl
@@ -160316,7 +160552,6 @@ ios-pclog.i4.cn
 +.smetrics.staplesadvantage.com.au
 +.smetrics.starhub.com
 +.smetrics.stark.dk
-+.smetrics.startribune.com
 +.smetrics.statefarm.com
 +.smetrics.statestreet.com
 +.smetrics.statnews.com
@@ -160482,7 +160717,6 @@ ios-pclog.i4.cn
 +.smetrics.tmz.com
 +.smetrics.tnkase.com
 +.smetrics.tochinavi.net
-+.smetrics.tokbox.com
 +.smetrics.tomecontroldesusalud.com
 +.smetrics.tomjoule.de
 +.smetrics.tommy.com
@@ -160494,7 +160728,6 @@ ios-pclog.i4.cn
 +.smetrics.toryburch.com
 +.smetrics.totalwine.com
 +.smetrics.tourdownunder.com.au
-+.smetrics.toyota.com
 +.smetrics.toyotanorthwestedmonton.com
 +.smetrics.toyotaonthepark.ca
 +.smetrics.toysrus.es
@@ -160802,7 +161035,6 @@ ios-pclog.i4.cn
 +.smkt.edm.globalsources.com
 +.smn.dankore.jp
 +.smobile.wotif.com
-+.smodus.nike.com
 +.smon.activate.cz
 +.smon.congress.gov
 +.smon.copyright.gov
@@ -160888,11 +161120,12 @@ ios-pclog.i4.cn
 +.social.insidelpl.com
 +.social.talenttitan.com
 +.social.tinyview.com
++.socialannex.com
++.socialbakers.com
 +.socs.hagerty.com
 +.soejzg.efe.com.pe
 +.soelui.butosklep.pl
 +.sofa.bankofamerica.com
-+.sofire.terabox.app
 +.sohiuc.sheego.de
 +.sokutei.car2828.jp
 +.solar.sunpower.com
@@ -162103,7 +162336,6 @@ ios-pclog.i4.cn
 +.static.osalta.eu
 +.static.whatsapp.net.iberostar.com
 +.statistic.jac-systeme.de
-+.statistic.qzone.qq.com
 +.statistic2.reichelt.de
 +.statisticplatform.com
 +.statistics.csob.cz
@@ -162115,6 +162347,7 @@ ios-pclog.i4.cn
 +.statistik.apartments-tirolerhaus.at
 +.statman.sesong.info
 +.stats-aah.gigride.live
++.stats-locations.com
 +.stats-ssl.mdanderson.org
 +.stats-whatever.gigride.live
 +.stats.45rpm.ch
@@ -162938,7 +163171,6 @@ ios-pclog.i4.cn
 +.sticketsmetrics.masters.com
 +.stjoe.psjhealth.org
 +.stliom.vidaxl.cz
-+.stm.komplett.no
 +.stmetrics.bbva.com.ar
 +.stmetrics.bbva.com.co
 +.stmetrics.bbva.es
@@ -163526,7 +163758,6 @@ ios-pclog.i4.cn
 +.t.mashable.com
 +.t.massmutualcenter.com
 +.t.meangreensports.com
-+.t.mediaset.it
 +.t.mgoblue.com
 +.t.miamihurricanes.com
 +.t.miamiredhawks.com
@@ -163551,7 +163782,6 @@ ios-pclog.i4.cn
 +.t.nuhuskies.com
 +.t.nusports.com
 +.t.nylinvestments.com
-+.t.nypost.com
 +.t.ohiobobcats.com
 +.t.okcciviccenter.com
 +.t.okstate.com
@@ -163664,7 +163894,6 @@ ios-pclog.i4.cn
 +.ta.taxslayer.com
 +.tacsc.net.anwalt.de
 +.taduhy.timberland.co.uk
-+.tag.aticdn.net
 +.tag.boulanger.fr
 +.tag.minimaid.co.jp
 +.tagcommander.laredoute.be
@@ -163797,11 +164026,9 @@ ios-pclog.i4.cn
 +.target.miaprova.com
 +.target.michaels.com
 +.target.microchip.com
-+.target.microsoft.com
 +.target.monaco.pwc.fr
 +.target.mtu-solutions.com
 +.target.myhealthtoolkit.com
-+.target.nationwide.com
 +.target.nejm.org
 +.target.netapp.com
 +.target.newark.com
@@ -163880,7 +164107,6 @@ ios-pclog.i4.cn
 +.target.thegrocer.co.uk
 +.target.thetruth.com
 +.target.totalwine.com
-+.target.toyota.com
 +.target.troweprice.com
 +.target.tsc.ca
 +.target.tunisie.pwc.fr
@@ -163905,7 +164131,6 @@ ios-pclog.i4.cn
 +.target.wedenik.com
 +.target.westjet.com
 +.target.wsec06.bancogalicia.com.ar
-+.target.xfinity.com
 +.target.zeiss.com
 +.target.zeiss.de
 +.target.zinia.com
@@ -164040,6 +164265,7 @@ ios-pclog.i4.cn
 +.telemetry.webasto.com
 +.temails.productnotice.thomsonreuters.com
 +.temsys.temsys.fr
++.tend.io
 +.tenilstats.turner.com
 +.tentflooring.biljax.com
 +.teraes.hgreg.com
@@ -164069,7 +164295,6 @@ ios-pclog.i4.cn
 +.test-links.cpgdata.com
 +.test-links.dipdip.com
 +.test-links.yelsa.app
-+.test-listen.tunein.com
 +.test-share.glorify-app.com
 +.test-starify.appsonic.fr
 +.test.asteride.co
@@ -164363,7 +164588,6 @@ ios-pclog.i4.cn
 +.tltpyy.saatchiart.com
 +.tm-eps.neutrino.nu
 +.tm-marketing.wolterskluwer.com
-+.tm.jsuol.com.br
 +.tm.swp.de
 +.tm.uol.com.br
 +.tm.urssaf.fr
@@ -164385,7 +164609,6 @@ ios-pclog.i4.cn
 +.tmt.intelligence.informa.com
 +.tmvasapp.fitnessyard.com
 +.tmwkya.jh-profishop.at
-+.tmx.bestbuy.com
 +.tmx.td.com
 +.tmy8.madeindesign.ch
 +.tncid.app
@@ -165590,7 +165813,6 @@ ios-pclog.i4.cn
 +.trck.asset.malcotools.com
 +.trck.atnenga.com
 +.trck.comms.watlow.com
-+.trck.coomeet.com
 +.trck.copeland.com
 +.trck.e.atradius.com
 +.trck.el.supremapoker.com.br
@@ -165629,7 +165851,6 @@ ios-pclog.i4.cn
 +.tredir.go.com
 +.tree.indot.nl
 +.trelleborg.tecs1.com
-+.trends.privacywall.org
 +.triplestat.online
 +.triton.companyegg.com
 +.trk-branch.balinea.com
@@ -165892,7 +166113,6 @@ ios-pclog.i4.cn
 +.trk.robuschi.com
 +.trk.routesonline.com
 +.trk.runtechsystems.com
-+.trk.s.sephora.com
 +.trk.sais.ch
 +.trk.sana.com.tr
 +.trk.sanella.de
@@ -166088,6 +166308,7 @@ ios-pclog.i4.cn
 +.udmmdl.dudalina.com.br
 +.udonjl.coopdeli.jp
 +.udr9.livera.nl
++.udrig.com
 +.udrvvx.kabum.com.br
 +.udsgty.alkosto.com
 +.udzucw.haggar.com
@@ -166108,7 +166329,6 @@ ios-pclog.i4.cn
 +.ugdcxl.timeout.jp
 +.ugdcxl.timeout.pt
 +.ugkray.theloom.in
-+.uglwov.logic-immo.com
 +.ugmarketing.smu.edu.sg
 +.ugzbsu.klimaworld.com
 +.uhd5nn09mgml.fort-shop.kiev.ua
@@ -166123,7 +166343,6 @@ ios-pclog.i4.cn
 +.uigwgn.france-abonnements.fr
 +.uijciz.gunze.jp
 +.uilwmi.coop.nl
-+.uim.tifbs.net
 +.uinpmz.iichi.com
 +.uiusqp.crowdcow.com
 +.uiwock.epantofi.ro
@@ -166374,7 +166593,6 @@ ios-pclog.i4.cn
 +.video.funnelbox.com
 +.video.verintsystemsinc.com
 +.video.vitcord.com
-+.videocdnmetrika.com
 +.videoplayerhub.com
 +.videos.adp.ca
 +.videos.personneltoday.com
@@ -166516,7 +166734,6 @@ ios-pclog.i4.cn
 +.w38ju82bano4.cv.gerardbosch.xyz
 +.w3n.llbean.com
 +.w4.air-worldwide.com
-+.w6.chabad.org
 +.w7.berlin.de
 +.w7.berliner-silvester.de
 +.w7.weihnachteninberlin.de
@@ -166794,7 +167011,6 @@ ios-pclog.i4.cn
 +.webinar.dnv.com
 +.webinar.intel.com
 +.webinar.ndtco.com
-+.webinars.att.com
 +.webinars.blackboard.com
 +.webinars.cigna.com
 +.webinars.coface.com
@@ -166949,6 +167165,7 @@ ios-pclog.i4.cn
 +.woodpeckerlog.com
 +.woodstock.viessmann.com.au
 +.woosyt.portalesardegna.com
++.wootric.com
 +.wop-bio.ubiwhere.com
 +.woqcfy.sony.ru
 +.work.construction.com
@@ -167042,8 +167259,6 @@ ios-pclog.i4.cn
 +.ww2.ads-on-line.com
 +.ww2.businessgrouphealth.org
 +.ww2.vinhwellness.com
-+.ww8.kohls.com
-+.ww9.kohls.com
 +.wwbsll.nissen.co.jp
 +.wwnscv.myspringfield.com
 +.wwokkf.laredoute.ru
@@ -167181,7 +167396,6 @@ ios-pclog.i4.cn
 +.wzpwxe.4lapy.ru
 +.wzyjup.patch.com
 +.wzzhvn.hammer.de
-+.x.allabout.co.jp
 +.x.gldn.io
 +.x.xtar.io
 +.x88s.pandasuite.io
@@ -167340,7 +167554,6 @@ ios-pclog.i4.cn
 +.yjpgxf.svsound.com
 +.yjpzqw.jackjones.com
 +.yjrcks.smile-zemi.jp
-+.yjtag.yahoo.co.jp
 +.yjxssk.apartments.com
 +.ykfrpx.kapten-son.com
 +.ykhqhe.domain.com.au
@@ -167421,7 +167634,6 @@ ios-pclog.i4.cn
 +.yurobl.rw-co.com
 +.yvcjyi.beymen.com
 +.yvdaeg.on-running.com
-+.yvdxij.applevacations.com
 +.yvtgva.casa.it
 +.ywayoh.ecipo.hu
 +.ywcqef.lyst.com.nl
@@ -167604,208 +167816,3 @@ ios-pclog.i4.cn
 +.zyq2.destinia.sk
 +.zzaoea.costacrociere.it
 +.zzsqqx.shopjapan.co.jp
-+.17gouwuba.com
-+.186078.com
-+.189key.com
-+.189zj.cn
-+.285680.com
-+.3721zh.com
-+.4009997658.com
-+.4336wang.cn
-+.51chumoping.com
-+.51mld.cn
-+.51mypc.cn
-+.58mingri.cn
-+.58mingtian.cn
-+.5vl58stm.com
-+.6d63d3.com
-+.7gg.cc
-+.91veg.com
-+.9s6q.cn
-+.abbyychina.com
-+.akuai.top
-+.alienskins.cn
-+.anydeskchina.cn
-+.atplay.cn
-+.baiwanchuangyi.com
-+.bartender.cc
-+.beerto.cn
-+.beilamusi.com
-+.benshiw.net
-+.betterzip.net
-+.betterzipcn.com
-+.beyondcompare.cc
-+.bianxianmao.com
-+.bingdianhuanyuan.cn
-+.bkyhq.cn
-+.bryonypie.com
-+.chemdraw.com.cn
-+.cishantao.com
-+.cjmakeding.com
-+.cjmkt.com
-+.codesoftchina.com
-+.coreldrawchina.com
-+.crossoverchina.com
-+.cszlks.com
-+.cudaojia.com
-+.dafapromo.com
-+.daitdai.com
-+.dongmansoft.com
-+.dsaeerf.com
-+.dugesheying.com
-+.dv8c1t.cn
-+.earmasterchina.cn
-+.easyrecoverychina.com
-+.echatu.com
-+.ediuschina.com
-+.erdoscs.com
-+.fan-yong.com
-+.feih.com.cn
-+.fjlqqc.com
-+.fkku194.com
-+.flash.cn
-+.flstudiochina.com
-+.folxchina.cn
-+.formysql.com
-+.freedrive.cn
-+.gclick.cn
-+.goufanli100.com
-+.goupaoerdai.com
-+.gouwubang.com
-+.gscxs.cn
-+.guitarpro.cc
-+.gzxnlk.com
-+.haoshengtoys.com
-+.hbssjd.cn
-+.huishenghuiying.com.cn
-+.hypeapp.cn
-+.hypersnap.net
-+.hyunke.com
-+.ichaosheng.com
-+.iconworkshop.cn
-+.idmchina.net
-+.imazingchina.com
-+.imindmap.cc
-+.ishop789.com
-+.jdkic.com
-+.jihehuaban.com.cn
-+.jiubuhua.com
-+.jsncke.com
-+.junkucm.com
-+.jwg365.cn
-+.kawo77.com
-+.keyshot.cc
-+.kingdeecn.cn
-+.kuaizip.com
-+.kualianyingxiao.cn
-+.kumihua.com
-+.logoshejishi.com
-+.ltheanine.cn
-+.luping.net.cn
-+.lvehaisen.com
-+.mackeeper.com
-+.maipinshangmao.com
-+.mairuan.cn
-+.mairuan.com
-+.mairuan.com.cn
-+.mairuan.net
-+.mairuanwang.com
-+.makeding.com
-+.mathtype.cn
-+.mindmanager.cc
-+.mindmanager.cn
-+.mindmapper.cc
-+.minisplat.cn
-+.mkitgfs.com
-+.mlnbike.com
-+.mobjump.com
-+.mycleanmymac.com
-+.nbkbgd.cn
-+.newapi.com
-+.nicelabel.cc
-+.ntfsformac.cc
-+.ntfsformac.cn
-+.officesoftcn.com
-+.overturechina.com
-+.passwordrecovery.cn
-+.pdfexpert.cc
-+.photozoomchina.com
-+.pinzhitmall.com
-+.poppyta.com
-+.qianchuanghr.com
-+.qichexin.com
-+.qinchugudao.com
-+.quanliyouxi.cn
-+.qutaobi.com
-+.ry51w.cn
-+.sg536.cn
-+.shankejingling.com
-+.sifubo.cn
-+.sifuce.cn
-+.sifuda.cn
-+.sifufu.cn
-+.sifuge.cn
-+.sifugu.cn
-+.sifuhe.cn
-+.sifuhu.cn
-+.sifuji.cn
-+.sifuka.cn
-+.smgru.net
-+.taoggou.com
-+.tcxshop.com
-+.tjqonline.cn
-+.topitme.com
-+.tt114.net
-+.tt3sm4.cn
-+.tuia.cn
-+.tuipenguin.com
-+.tuitiger.com
-+.ultraiso.net
-+.urlaw.cn
-+.urlet.cn
-+.vegaschina.cn
-+.websd8.com
-+.wsgblw.com
-+.wx16999.com
-+.xchmai.com
-+.xiaohuau.xyz
-+.xitongqingli.com
-+.xmindchina.net
-+.xshellcn.com
-+.ygyzx.cn
-+.yihuifu.cn
-+.yinmong.com
-+.yitaopt.com
-+.yjqiqi.com
-+.yuanchengxiezuo.com
-+.yukhj.com
-+.zbrushcn.com
-+.zhaozecheng.cn
-+.zhenxinet.com
-+.zhzzx.com
-+.zlne800.com
-+.zmlled.cn
-+.zryydi.com
-+.zunmi.cn
-+.zzd6.com
-+.cmpassport.com
-+.counter.wikiwiki.jp
-+.cpatrk.net
-+.go.oracle.com
-+.gozendata.com
-+.gz-data.com
-+.gzads.com
-+.id6.me
-+.mparticle.com
-+.pardot.com
-+.predic.io
-+.rtbasia.com
-+.scorecardresearch.com
-+.seewhy.com
-+.sentiance.com
-+.socialannex.com
-+.socialbakers.com
-+.stats-locations.com
-+.tend.io
-+.udrig.com
-+.wootric.com

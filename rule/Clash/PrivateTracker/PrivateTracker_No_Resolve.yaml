@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-21 02:12:51
-# DOMAIN: 136
+# UPDATED: 2024-06-23 02:11:26
+# DOMAIN: 137
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 267
+# TOTAL: 268
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,1c.premierzal.ru
@@ -19,6 +19,7 @@ payload:
   - DOMAIN,bt2.archive.org
   - DOMAIN,bubu.mapfactor.com
   - DOMAIN,bvarf.tracker.sh
+  - DOMAIN,canardscitrons.nohost.me
   - DOMAIN,ch3oh.ru
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
@@ -28,6 +29,7 @@ payload:
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,fh2.cmp-gaming.com
+  - DOMAIN,free.publictracker.xyz
   - DOMAIN,inferno.demonoid.is
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv6.fuuuuuck.com
@@ -57,7 +59,6 @@ payload:
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,public.publictracker.xyz
-  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,pybittrack.retiolus.net
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
@@ -69,6 +70,7 @@ payload:
   - DOMAIN,t.peer-exchange.download
   - DOMAIN,t1.aag.moe
   - DOMAIN,tamas3.ynh.fr
+  - DOMAIN,tk.greedland.net
   - DOMAIN,tk1.trackerservers.com
   - DOMAIN,tk2.trackerservers.com
   - DOMAIN,tk2v6.trackerservers.com
@@ -83,7 +85,6 @@ payload:
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt4g.com
-  - DOMAIN,tracker.ccp.ovh
   - DOMAIN,tracker.cloudit.top
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
@@ -106,6 +107,7 @@ payload:
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.jamesthebard.net
+  - DOMAIN,tracker.k.vu
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.lilithraws.org
   - DOMAIN,tracker.loligirl.cn
@@ -117,15 +119,14 @@ payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
   - DOMAIN,tracker.silksa.co.za
+  - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tamersunion.org
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,tracker1.520.jp
-  - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
   - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
